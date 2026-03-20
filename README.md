@@ -1,46 +1,60 @@
 # Hi, I'm Siddhant
 
-I'm a **Data Engineer** primarily interested in **analytics pipelines and data-driven Python tools**.
 
-I enjoy building data pipelines and tools around things I find worth tracking, viz. cricket and music, mostly.
+I build end-to-end data pipelines and analytical systems using Python and SQL, with a focus on **data modeling and orchestration**.
+
+I particularly enjoy analytics pipelines and tools around things I find worth tracking, viz. cricket and music, mainly.
+
+---
 
 ## Projects
 
 ### Cricket Warehouse
 
-Data warehouse for ball-by-ball cricket match data using **Python, PostgreSQL, and dbt**.
+End-to-end **ELT data pipeline** for ball-by-ball cricket match data using **Python, PostgreSQL, dbt, and Airflow**.
 
-Implements ingestion, normalization, and analytical models for querying match data.
+Includes ingestion, incremental loading, layered data modeling, and fully orchestrated transformations via Airflow (Astronomer Cosmos).
 
-🔗 [https://github.com/shsiddhant/cricket-warehouse](https://github.com/shsiddhant/cricket-warehouse)
+🔗 https://github.com/shsiddhant/cricket-warehouse
+
+---
 
 ### memory.fm
 
 Python library, CLI tool, and dashboard for exploring music listening history from **Last.fm** and **Spotify**.
 
-🔗 [https://github.com/shsiddhant/memory.fm](https://github.com/shsiddhant/memory.fm)
+Focuses on temporal patterns such as **attachment, repetition, and listening streaks**.
+
+🔗 https://github.com/shsiddhant/memory.fm
+
+---
 
 ### Women’s Cricket World Cup Prediction
 
 Machine learning project predicting match outcomes using features engineered from historical match data.
 
-🔗 [https://github.com/shsiddhant/womens-wc](https://github.com/shsiddhant/womens-wc)
+🔗 https://github.com/shsiddhant/womens-wc
+
+---
 
 ### memory.journal
 
 Lightweight offline journaling application with **password protection** and **Markdown support**.
 
-🔗 [https://github.com/shsiddhant/memory.journal](https://github.com/shsiddhant/memory.journal)
+🔗 https://github.com/shsiddhant/memory.journal
+
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-orange?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Python • PostgreSQL • dbt • pandas • scikit-learn • Streamlit • Typer • Git
+Python • SQL • PostgreSQL • dbt • Airflow • Docker • Pandas • NumPy • Git
+
+---
 
 ## Interests
 
@@ -50,10 +64,16 @@ Python • PostgreSQL • dbt • pandas • scikit-learn • Streamlit • Type
 - Personal data exploration tools
 - Python-based CLI tools
 
-## Currently Learning
+---
 
-- Data orchestration (Airflow)
-- Data warehouse design
+## Currently Exploring
+
+- Improving pipeline design and orchestration patterns.
+- Performance optimization for data processing workflows.
+- T20 Cricket analytics
+
+---
+
 
 ## Connect with me
 
