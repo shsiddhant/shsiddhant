@@ -8,7 +8,7 @@ Most of my work sits at the intersection of:
 - Analytical Modeling
 - Personal Data Exploration
 
-I particularly enjoy analytics pipelines and tools around things I find worth tracking, viz. cricket and music, mainly.
+I particularly enjoy analytics pipelines and tools around things I feel drawn to, viz. cricket, music, and memories, mainly.
 
 ---
 
@@ -81,23 +81,22 @@ Lightweight offline journaling application with **password protection** and **Ma
 
 - Data engineering & pipeline design
 - Analytical data modeling
-- Sports analytics (especially cricket)
 - Personal data products
+- Sports analytics (especially cricket)
 - Python-based CLI tools
 
 ---
-
-## Currently Exploring
-
-- Improving pipeline design and orchestration patterns.
-- Performance optimization for data processing workflows.
-- T20 Cricket analytics
-
----
-
 
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shsiddhant)
 [![Email](https://img.shields.io/badge/EMAIL-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sharmasiddhant@proton.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shsiddhant)
+
+## Support me
+
+If something I build strikes a chord with you, please consider supporting me. Thank you!
+
+[![Chai4Me](https://img.shields.io/badge/Chai4.me%20(UPI)-C1785A?style=for-the-badge&logo=coffeescript&logoColor=white)](https://chai4.me/shsiddhant)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shsiddhant)
+
