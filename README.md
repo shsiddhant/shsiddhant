@@ -34,6 +34,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 
 🔗 https://github.com/shsiddhant/memory.fm
 
+<!--START_LASTFM_RECENT:{"rows": 3}-->
+<!--END_LASTFM_RECENT-->
+
 ---
 
 ### memory.text
