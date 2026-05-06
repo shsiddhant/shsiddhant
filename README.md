@@ -3,16 +3,10 @@
 
 I build end-to-end data pipelines and analytical systems using Python and SQL, with a focus on **data modeling and orchestration**.
 
-Most of my work sits at the intersection of:
-- Data Engineering
-- Analytical Modeling
-- Personal Data Exploration
+I particularly enjoy working on analytics pipelines and tools around things I feel drawn to, viz. cricket, music, and memories, mainly.
 
-I particularly enjoy analytics pipelines and tools around things I feel drawn to, viz. cricket, music, and memories, mainly.
 
----
-
-## Projects
+## Featured Projects
 
 ### Cricket Warehouse
 
@@ -22,17 +16,17 @@ End-to-end **ELT data pipeline** for ball-by-ball cricket match data using **Pyt
 - Layered warehouse modeling
 - Fully orchestrated transformations via Airflow (Astronomer Cosmos)
 
-🔗 https://github.com/shsiddhant/cricket-warehouse
+🔗 Repo: https://github.com/shsiddhant/cricket-warehouse
 
----
 
 ### memory.fm
 
-**memory.fm** is a web application for exploring music listening history from **Last.fm** and **Spotify**.
+A web application for exploring music listening history from **Last.fm** and **Spotify**.
 
 Instead of focusing only on aggregate stats, it surfaces long-term and local patterns such as attachment, repetition, and obsessive listening, to help you revisit periods of your life through music.
 
-🔗 https://github.com/shsiddhant/memory.fm
+🔗 Live: https://memory-fm.vercel.app  
+🔗 Repo: https://github.com/shsiddhant/memory.fm
 
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
@@ -42,58 +36,34 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 > ∙ **[Who'd You Kill Now?](https://www.last.fm/music/Frightened+Rabbit/_/Who%27d+You+Kill+Now%3F)** - Frightened Rabbit<br/>
 <!--END_LASTFM_RECENT-->
 
----
 
-### memory.text
+## Explorations
 
-A **PySide6** desktop application that reimagines your chat history into a book-like reading experience, with chapters, navigation, and structure instead of endless scrolling.
+Projects built while learning and exploring ideas around data, memory, and interfaces:
 
-🔗 https://github.com/shsiddhant/memory.text
-
----
-
-### Women’s Cricket World Cup Prediction
-
-Machine learning project predicting match outcomes using features engineered from historical match data.
-
-🔗 https://github.com/shsiddhant/womens-wc
-
----
-
-### memory.journal
-
-Lightweight offline journaling application with **password protection** and **Markdown support**.
-
-🔗 https://github.com/shsiddhant/memory.journal
+- **memory.text:** Reimagine your chat history into a book-like reading experience (Qt/Pyside).
+- **Women’s Cricket WC:** Predict match outcomes using features engineered from historical match data.
+- **memory.journal:** Offline journaling application with **password protection** and **Markdown support**.
 
 
-## Stack
+## Tools & Systems
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-orange?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ - **Data & Backend:** Python • SQL • PostgreSQL • dbt • Airflow • FastAPI • Flask 
 
-**Core:**  Python • SQL • PostgreSQL • dbt • Airflow
+- **Analytics & ML:** Pandas • NumPy • Scikit-learn
 
-**Back-end & Data:**  FastAPI • Pandas • NumPy
+- **Interfaces & Applications:** React • PySide6
 
-**Front-end & Infra:** React • Docker • Git
+- **Infrastructure & Deployment:** Docker • Supabase • Render • Vercel
 
----
 
 ## Interests
 
 - Data engineering & pipeline design
-- Analytical data modeling
-- Personal data products
+- Analytical modeling & data products
 - Sports analytics (especially cricket)
-- Python-based CLI tools
+- Personal data systems (music, memory, journaling)
 
----
 
 ## Connect with me
 
