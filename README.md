@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[New Dawn Fades (2019 Digital Master)](https://www.last.fm/music/Joy+Division/_/New+Dawn+Fades+(2019+Digital+Master))** - Joy Division<br/>
-> ∙ **[Insight (2019 Digital Master)](https://www.last.fm/music/Joy+Division/_/Insight+(2019+Digital+Master))** - Joy Division<br/>
-> ∙ **[Lightning](https://www.last.fm/music/Mitski/_/Lightning)** - Mitski<br/>
+> ∙ **[Between the Bars](https://www.last.fm/music/Elliott+Smith/_/Between+the+Bars)** - Elliott Smith<br/>
+> ∙ **[No Name No. 5](https://www.last.fm/music/Elliott+Smith/_/No+Name+No.+5)** - Elliott Smith<br/>
+> ∙ **[A Fond Farewell](https://www.last.fm/music/Elliott+Smith/_/A+Fond+Farewell)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
