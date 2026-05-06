@@ -20,7 +20,7 @@ jobs:
           LASTFM_USER: lazulinoother
 
           # Optional: Customize the commit message
-          COMMIT_MESSAGE: 'doc: update recent tracks'
+          COMMIT_MESSAGE: 'doc: update recent tracks (${{ env.TIMESTAMP }})'
 
           # Optional: For cross-repository updates
           # GH_TOKEN: ${{ secrets.GH_TOKEN }}
