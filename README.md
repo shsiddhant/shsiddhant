@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Love Minus Zero / No Limit (Live)](https://www.last.fm/music/Bob+Dylan/_/Love+Minus+Zero+%2F+No+Limit+(Live))** - Bob Dylan<br/>
-> ∙ **[If You See Her, Say Hello](https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello)** - Bob Dylan<br/>
-> ∙ **['Til I Fell In Love With You](https://www.last.fm/music/Bob+Dylan/_/%27Til+I+Fell+In+Love+With+You)** - Bob Dylan<br/>
+> 🎶 **[Well I Wonder](https://www.last.fm/music/The+Smiths/_/Well+I+Wonder)** - The Smiths<br/>
+> ∙ **[Asleep](https://www.last.fm/music/The+Smiths/_/Asleep)** - The Smiths<br/>
+> ∙ **[I Want the One I Can't Have](https://www.last.fm/music/The+Smiths/_/I+Want+the+One+I+Can%27t+Have)** - The Smiths<br/>
 <!--END_LASTFM_RECENT-->
 
 
