@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Posing For Cars](https://www.last.fm/music/Japanese+Breakfast/_/Posing+For+Cars)** - Japanese Breakfast<br/>
-> ∙ **[No Name No. 5](https://www.last.fm/music/Elliott+Smith/_/No+Name+No.+5)** - Elliott Smith<br/>
-> ∙ **[Burn The Rain](https://www.last.fm/music/Kurt+Cobain/_/Burn+The+Rain)** - Kurt Cobain<br/>
+> ∙ **[Tactics](https://www.last.fm/music/Japanese+Breakfast/_/Tactics)** - Japanese Breakfast<br/>
+> ∙ **[happy news for sadness](https://www.last.fm/music/Car+Seat+Headrest/_/happy+news+for+sadness)** - Car Seat Headrest<br/>
+> ∙ **[I Don't Want to Get Over You](https://www.last.fm/music/The+Magnetic+Fields/_/I+Don%27t+Want+to+Get+Over+You)** - The Magnetic Fields<br/>
 <!--END_LASTFM_RECENT-->
 
 
