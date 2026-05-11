@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Who'd You Kill Now?](https://www.last.fm/music/Frightened+Rabbit/_/Who%27d+You+Kill+Now%3F)** - Frightened Rabbit<br/>
-> ∙ **[Floating in the Forth](https://www.last.fm/music/Frightened+Rabbit/_/Floating+in+the+Forth)** - Frightened Rabbit<br/>
-> ∙ **[Poke](https://www.last.fm/music/Frightened+Rabbit/_/Poke)** - Frightened Rabbit<br/>
+> ∙ **[Get Lonely](https://www.last.fm/music/The+Mountain+Goats/_/Get+Lonely)** - The Mountain Goats<br/>
+> ∙ **[Porcelain Hands](https://www.last.fm/music/Weatherday/_/Porcelain+Hands)** - Weatherday<br/>
+> ∙ **[Unloveable (Single B-Side)](https://www.last.fm/music/The+Smiths/_/Unloveable+(Single+B-Side))** - The Smiths<br/>
 <!--END_LASTFM_RECENT-->
 
 
