@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Frost](https://www.last.fm/music/Mitski/_/The+Frost)** - Mitski<br/>
-> ∙ **[Anything We Want](https://www.last.fm/music/Fiona+Apple/_/Anything+We+Want)** - Fiona Apple<br/>
-> ∙ **[Valentine](https://www.last.fm/music/Fiona+Apple/_/Valentine)** - Fiona Apple<br/>
+> 🎶 **[The Piano Song](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Piano+Song)** - Carissa's Wierd<br/>
+> ∙ **[Ignorant Piece of Shit](https://www.last.fm/music/Carissa%27s+Wierd/_/Ignorant+Piece+of+Shit)** - Carissa's Wierd<br/>
+> ∙ **[September Come Take This Heart Away](https://www.last.fm/music/Carissa%27s+Wierd/_/September+Come+Take+This+Heart+Away)** - Carissa's Wierd<br/>
 <!--END_LASTFM_RECENT-->
 
 
