@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Some Time Alone, Alone](https://www.last.fm/music/Melody%27s+Echo+Chamber/_/Some+Time+Alone,+Alone)** - Melody's Echo Chamber<br/>
-> ∙ **[There Will Never Be Another You](https://www.last.fm/music/Chet+Baker/_/There+Will+Never+Be+Another+You)** - Chet Baker<br/>
-> ∙ **[Love Song](https://www.last.fm/music/Vashti+Bunyan/_/Love+Song)** - Vashti Bunyan<br/>
+> ∙ **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
+> ∙ **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
+> ∙ **[I Didn't Understand](https://www.last.fm/music/Elliott+Smith/_/I+Didn%27t+Understand)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
