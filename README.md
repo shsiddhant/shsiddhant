@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
-> ∙ **[Memory Lane](https://www.last.fm/music/Elliott+Smith/_/Memory+Lane)** - Elliott Smith<br/>
-> ∙ **[The Moon](https://www.last.fm/music/The+Microphones/_/The+Moon)** - The Microphones<br/>
+> ∙ **[Heart and Soul](https://www.last.fm/music/Joy+Division/_/Heart+and+Soul)** - Joy Division<br/>
+> ∙ **[Heart and Soul](https://www.last.fm/music/Joy+Division/_/Heart+and+Soul)** - Joy Division<br/>
+> ∙ **[Heart and Soul](https://www.last.fm/music/Joy+Division/_/Heart+and+Soul)** - Joy Division<br/>
 <!--END_LASTFM_RECENT-->
 
 
