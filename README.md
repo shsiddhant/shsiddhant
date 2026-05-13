@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[You're a Big Girl Now](https://www.last.fm/music/Bob+Dylan/_/You%27re+a+Big+Girl+Now)** - Bob Dylan<br/>
-> ∙ **[No Name No. 5](https://www.last.fm/music/Elliott+Smith/_/No+Name+No.+5)** - Elliott Smith<br/>
-> ∙ **[Love Minus Zero / No Limit (Live)](https://www.last.fm/music/Bob+Dylan/_/Love+Minus+Zero+%2F+No+Limit+(Live))** - Bob Dylan<br/>
+> 🎶 **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
+> ∙ **[Memory Lane](https://www.last.fm/music/Elliott+Smith/_/Memory+Lane)** - Elliott Smith<br/>
+> ∙ **[The Moon](https://www.last.fm/music/The+Microphones/_/The+Moon)** - The Microphones<br/>
 <!--END_LASTFM_RECENT-->
 
 
