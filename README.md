@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Some Things Last a Long Time (feat. Kramer)](https://www.last.fm/music/Daniel+Johnston/_/Some+Things+Last+a+Long+Time+(feat.+Kramer))** - Daniel Johnston<br/>
-> ∙ **[Instead Of Here](https://www.last.fm/music/Mitski/_/Instead+Of+Here)** - Mitski<br/>
-> ∙ **[In Hell](https://www.last.fm/music/Japanese+Breakfast/_/In+Hell)** - Japanese Breakfast<br/>
+> 🎶 **[Mio, min Mio](https://www.last.fm/music/Weatherday/_/Mio,+min+Mio)** - Weatherday<br/>
+> ∙ **[Lorraine](https://www.last.fm/music/Big+Thief/_/Lorraine)** - Big Thief<br/>
+> ∙ **[Older than before (Oswald made no way for himself)](https://www.last.fm/music/Weatherday/_/Older+than+before+(Oswald+made+no+way+for+himself))** - Weatherday<br/>
 <!--END_LASTFM_RECENT-->
 
 
