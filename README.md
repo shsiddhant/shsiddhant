@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Sarah](https://www.last.fm/music/Ray+LaMontagne/_/Sarah)** - Ray LaMontagne<br/>
-> ∙ **[If You Feel You Must Go, Don't Go!](https://www.last.fm/music/of+Montreal/_/If+You+Feel+You+Must+Go,+Don%27t+Go!)** - of Montreal<br/>
-> ∙ **[I Guess](https://www.last.fm/music/Mitski/_/I+Guess)** - Mitski<br/>
+> ∙ **[Some Things Last a Long Time (feat. Kramer)](https://www.last.fm/music/Daniel+Johnston/_/Some+Things+Last+a+Long+Time+(feat.+Kramer))** - Daniel Johnston<br/>
+> ∙ **[Instead Of Here](https://www.last.fm/music/Mitski/_/Instead+Of+Here)** - Mitski<br/>
+> ∙ **[In Hell](https://www.last.fm/music/Japanese+Breakfast/_/In+Hell)** - Japanese Breakfast<br/>
 <!--END_LASTFM_RECENT-->
 
 
