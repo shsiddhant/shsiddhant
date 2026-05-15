@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Twin Fantasy (Those Boys)](https://www.last.fm/music/Car+Seat+Headrest/_/Twin+Fantasy+(Those+Boys))** - Car Seat Headrest<br/>
-> ∙ **[These Days](https://www.last.fm/music/Nico/_/These+Days)** - Nico<br/>
-> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
+> ∙ **[Pictures of You](https://www.last.fm/music/The+Cure/_/Pictures+of+You)** - The Cure<br/>
+> ∙ **[The Things We Did and Didn't Do](https://www.last.fm/music/The+Magnetic+Fields/_/The+Things+We+Did+and+Didn%27t+Do)** - The Magnetic Fields<br/>
+> ∙ **[No Name No. 5](https://www.last.fm/music/Elliott+Smith/_/No+Name+No.+5)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
