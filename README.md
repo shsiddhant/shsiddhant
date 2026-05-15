@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pictures of You](https://www.last.fm/music/The+Cure/_/Pictures+of+You)** - The Cure<br/>
-> ∙ **[The Things We Did and Didn't Do](https://www.last.fm/music/The+Magnetic+Fields/_/The+Things+We+Did+and+Didn%27t+Do)** - The Magnetic Fields<br/>
-> ∙ **[No Name No. 5](https://www.last.fm/music/Elliott+Smith/_/No+Name+No.+5)** - Elliott Smith<br/>
+> ∙ **[True Love](https://www.last.fm/music/Elliott+Smith/_/True+Love)** - Elliott Smith<br/>
+> ∙ **[The Modern Leper](https://www.last.fm/music/Frightened+Rabbit/_/The+Modern+Leper)** - Frightened Rabbit<br/>
+> ∙ **[Montreal](https://www.last.fm/music/of+Montreal/_/Montreal)** - of Montreal<br/>
 <!--END_LASTFM_RECENT-->
 
 
