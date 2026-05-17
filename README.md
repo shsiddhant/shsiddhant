@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[They'll Only Miss You When You Leave](https://www.last.fm/music/Carissa%27s+Wierd/_/They%27ll+Only+Miss+You+When+You+Leave)** - Carissa's Wierd<br/>
-> ∙ **[Cut lips](https://www.last.fm/music/Weatherday/_/Cut+lips)** - Weatherday<br/>
-> ∙ **[Mio, min Mio](https://www.last.fm/music/Weatherday/_/Mio,+min+Mio)** - Weatherday<br/>
+> ∙ **[Inside Out](https://www.last.fm/music/Duster/_/Inside+Out)** - Duster<br/>
+> ∙ **[So You Are Tired](https://www.last.fm/music/Sufjan+Stevens/_/So+You+Are+Tired)** - Sufjan Stevens<br/>
+> ∙ **[Goodbye, My Danish Sweetheart](https://www.last.fm/music/Mitski/_/Goodbye,+My+Danish+Sweetheart)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
