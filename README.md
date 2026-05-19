@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)** - Japanese Breakfast<br/>
-> ∙ **[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)** - Japanese Breakfast<br/>
-> ∙ **[They'll Only Miss You When You Leave](https://www.last.fm/music/Carissa%27s+Wierd/_/They%27ll+Only+Miss+You+When+You+Leave)** - Carissa's Wierd<br/>
+> ∙ **[Love Is Like a Bottle of Gin](https://www.last.fm/music/The+Magnetic+Fields/_/Love+Is+Like+a+Bottle+of+Gin)** - The Magnetic Fields<br/>
+> ∙ **[Seven Words](https://www.last.fm/music/Weyes+Blood/_/Seven+Words)** - Weyes Blood<br/>
+> ∙ **[Heaven](https://www.last.fm/music/Mitski/_/Heaven)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
