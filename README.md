@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
-> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
-> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
+> ∙ **[Some Time Alone, Alone](https://www.last.fm/music/Melody%27s+Echo+Chamber/_/Some+Time+Alone,+Alone)** - Melody's Echo Chamber<br/>
+> ∙ **[The Things We Did and Didn't Do](https://www.last.fm/music/The+Magnetic+Fields/_/The+Things+We+Did+and+Didn%27t+Do)** - The Magnetic Fields<br/>
+> ∙ **[Theme](https://www.last.fm/music/Jon+Brion/_/Theme)** - Jon Brion<br/>
 <!--END_LASTFM_RECENT-->
 
 
