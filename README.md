@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[orange, blue with stripes](https://www.last.fm/music/Brave+Little+Abacus/_/orange,+blue+with+stripes)** - Brave Little Abacus<br/>
-> ∙ **[Bug-Infested Floorboards Can We Please Just Leave This Place Now](https://www.last.fm/music/Brave+Little+Abacus/_/Bug-Infested+Floorboards+Can+We+Please+Just+Leave+This+Place+Now)** - Brave Little Abacus<br/>
-> ∙ **[Allston, Massachusetts December 2009 to January 2010](https://www.last.fm/music/Brave+Little+Abacus/_/Allston,+Massachusetts+December+2009+to+January+2010)** - Brave Little Abacus<br/>
+> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
+> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
+> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
 <!--END_LASTFM_RECENT-->
 
 
