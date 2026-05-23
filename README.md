@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
-> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
+> ∙ **[Tears in the Typing Pool](https://www.last.fm/music/Broadcast/_/Tears+in+the+Typing+Pool)** - Broadcast<br/>
+> ∙ **[I Don't Want to Get Over You](https://www.last.fm/music/The+Magnetic+Fields/_/I+Don%27t+Want+to+Get+Over+You)** - The Magnetic Fields<br/>
+> ∙ **[The Biggest Lie](https://www.last.fm/music/Elliott+Smith/_/The+Biggest+Lie)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
