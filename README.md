@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Tears in the Typing Pool](https://www.last.fm/music/Broadcast/_/Tears+in+the+Typing+Pool)** - Broadcast<br/>
-> ∙ **[I Don't Want to Get Over You](https://www.last.fm/music/The+Magnetic+Fields/_/I+Don%27t+Want+to+Get+Over+You)** - The Magnetic Fields<br/>
-> ∙ **[The Biggest Lie](https://www.last.fm/music/Elliott+Smith/_/The+Biggest+Lie)** - Elliott Smith<br/>
+> 🎶 **[I Am Trying to Break Your Heart](https://www.last.fm/music/Wilco/_/I+Am+Trying+to+Break+Your+Heart)** - Wilco<br/>
+> ∙ **[I Am Trying to Break Your Heart](https://www.last.fm/music/Wilco/_/I+Am+Trying+to+Break+Your+Heart)** - Wilco<br/>
+> ∙ **[My Love Mine All Mine](https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
