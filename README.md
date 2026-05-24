@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)** - Slowdive<br/>
-> ∙ **[Big Black Car](https://www.last.fm/music/Gregory+Alan+Isakov/_/Big+Black+Car)** - Gregory Alan Isakov<br/>
-> ∙ **[Born For Loving You](https://www.last.fm/music/Big+Thief/_/Born+For+Loving+You)** - Big Thief<br/>
+> ∙ **[I Want the One I Can't Have](https://www.last.fm/music/The+Smiths/_/I+Want+the+One+I+Can%27t+Have)** - The Smiths<br/>
+> ∙ **[Cry, Cry](https://www.last.fm/music/Mazzy+Star/_/Cry,+Cry)** - Mazzy Star<br/>
+> ∙ **[Long-Forgotten Fairytale](https://www.last.fm/music/The+Magnetic+Fields/_/Long-Forgotten+Fairytale)** - The Magnetic Fields<br/>
 <!--END_LASTFM_RECENT-->
 
 
