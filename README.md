@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Want the One I Can't Have](https://www.last.fm/music/The+Smiths/_/I+Want+the+One+I+Can%27t+Have)** - The Smiths<br/>
-> ∙ **[Cry, Cry](https://www.last.fm/music/Mazzy+Star/_/Cry,+Cry)** - Mazzy Star<br/>
-> ∙ **[Long-Forgotten Fairytale](https://www.last.fm/music/The+Magnetic+Fields/_/Long-Forgotten+Fairytale)** - The Magnetic Fields<br/>
+> ∙ **[Bitter Tears](https://www.last.fm/music/The+Magnetic+Fields/_/Bitter+Tears)** - The Magnetic Fields<br/>
+> ∙ **[Sleep in while you're doing your best](https://www.last.fm/music/Weatherday/_/Sleep+in+while+you%27re+doing+your+best)** - Weatherday<br/>
+> ∙ **[re: stacks](https://www.last.fm/music/Bon+Iver/_/re:+stacks)** - Bon Iver<br/>
 <!--END_LASTFM_RECENT-->
 
 
