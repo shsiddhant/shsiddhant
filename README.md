@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Know It's Over](https://www.last.fm/music/Jeff+Buckley/_/I+Know+It%27s+Over)** - Jeff Buckley<br/>
-> ∙ **[I Know It's Over](https://www.last.fm/music/The+Smiths/_/I+Know+It%27s+Over)** - The Smiths<br/>
-> ∙ **[Concorde](https://www.last.fm/music/Black+Country,+New+Road/_/Concorde)** - Black Country, New Road<br/>
+> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
+> ∙ **[Burn The Rain](https://www.last.fm/music/Kurt+Cobain/_/Burn+The+Rain)** - Kurt Cobain<br/>
+> ∙ **[Washing Machine Heart](https://www.last.fm/music/Mitski/_/Washing+Machine+Heart)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
