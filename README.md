@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
-> ∙ **[Burn The Rain](https://www.last.fm/music/Kurt+Cobain/_/Burn+The+Rain)** - Kurt Cobain<br/>
-> ∙ **[Washing Machine Heart](https://www.last.fm/music/Mitski/_/Washing+Machine+Heart)** - Mitski<br/>
+> ∙ **[Do You Ever Remember?](https://www.last.fm/music/Molly+Drake/_/Do+You+Ever+Remember%3F)** - Molly Drake<br/>
+> ∙ **[I Think You Were in My Profile Picture Once](https://www.last.fm/music/Modern+Baseball/_/I+Think+You+Were+in+My+Profile+Picture+Once)** - Modern Baseball<br/>
+> ∙ **[There Will Never Be Another You](https://www.last.fm/music/Chet+Baker/_/There+Will+Never+Be+Another+You)** - Chet Baker<br/>
 <!--END_LASTFM_RECENT-->
 
 
