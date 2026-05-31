@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Superstar](https://www.last.fm/music/Beach+House/_/Superstar)** - Beach House<br/>
-> ∙ **[Now and Then](https://www.last.fm/music/The+Beatles/_/Now+and+Then)** - The Beatles<br/>
-> ∙ **[Now and Then](https://www.last.fm/music/The+Beatles/_/Now+and+Then)** - The Beatles<br/>
+> ∙ **[Among His Tribe](https://www.last.fm/music/Ween/_/Among+His+Tribe)** - Ween<br/>
+> ∙ **[Transdermal Celebration](https://www.last.fm/music/Ween/_/Transdermal+Celebration)** - Ween<br/>
+> ∙ **[Zoloft](https://www.last.fm/music/Ween/_/Zoloft)** - Ween<br/>
 <!--END_LASTFM_RECENT-->
 
 
