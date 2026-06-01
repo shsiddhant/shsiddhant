@@ -33,7 +33,7 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 
 > ∙ **[Two Women](https://www.last.fm/music/The+Angels+of+Light/_/Two+Women)** - The Angels of Light<br/>
 > ∙ **[Public Embarrassment Blues](https://www.last.fm/music/The+Angels+of+Light/_/Public+Embarrassment+Blues)** - The Angels of Light<br/>
-> ∙ **[My Suicide](https://www.last.fm/music/The+Angels+of+Light/_/My+Suicide)** - The Angels of Light<br/>
+> ∙ **[New York Girls](https://www.last.fm/music/The+Angels+of+Light/_/New+York+Girls)** - The Angels of Light<br/>
 <!--END_LASTFM_RECENT-->
 
 
