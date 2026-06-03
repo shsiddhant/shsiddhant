@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Two Women](https://www.last.fm/music/The+Angels+of+Light/_/Two+Women)** - The Angels of Light<br/>
 > ∙ **[Public Embarrassment Blues](https://www.last.fm/music/The+Angels+of+Light/_/Public+Embarrassment+Blues)** - The Angels of Light<br/>
 > ∙ **[My Suicide](https://www.last.fm/music/The+Angels+of+Light/_/My+Suicide)** - The Angels of Light<br/>
-> ∙ **[New York City In The Future](https://www.last.fm/music/The+Angels+of+Light/_/New+York+City+In+The+Future)** - The Angels of Light<br/>
 <!--END_LASTFM_RECENT-->
 
 
