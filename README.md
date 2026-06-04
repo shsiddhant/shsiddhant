@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pink in the Night](https://www.last.fm/music/Mitski/_/Pink+in+the+Night)** - Mitski<br/>
-> ∙ **[My Suicide](https://www.last.fm/music/The+Angels+of+Light/_/My+Suicide)** - The Angels of Light<br/>
-> ∙ **[Pitseleh](https://www.last.fm/music/Elliott+Smith/_/Pitseleh)** - Elliott Smith<br/>
+> ∙ **[Second Chance](https://www.last.fm/music/Codeine/_/Second+Chance)** - Codeine<br/>
+> ∙ **[New Year's](https://www.last.fm/music/Codeine/_/New+Year%27s)** - Codeine<br/>
+> ∙ **[Pickup Song](https://www.last.fm/music/Codeine/_/Pickup+Song)** - Codeine<br/>
 <!--END_LASTFM_RECENT-->
 
 
