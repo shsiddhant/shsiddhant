@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Seven and a Half Years of Waiting, My Disaster](https://www.last.fm/music/A+Perfect+Kiss/_/Seven+and+a+Half+Years+of+Waiting,+My+Disaster)** - A Perfect Kiss<br/>
-> ∙ **[D](https://www.last.fm/music/Codeine/_/D)** - Codeine<br/>
-> ∙ **[Second Chance](https://www.last.fm/music/Codeine/_/Second+Chance)** - Codeine<br/>
+> 🎶 **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
+> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
+> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
 <!--END_LASTFM_RECENT-->
 
 
