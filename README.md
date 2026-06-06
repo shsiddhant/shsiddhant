@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
-> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
-> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
+> ∙ **[If I Leave](https://www.last.fm/music/Mitski/_/If+I+Leave)** - Mitski<br/>
+> ∙ **[Love Is Like a Bottle of Gin](https://www.last.fm/music/The+Magnetic+Fields/_/Love+Is+Like+a+Bottle+of+Gin)** - The Magnetic Fields<br/>
+> ∙ **[The Moon](https://www.last.fm/music/The+Microphones/_/The+Moon)** - The Microphones<br/>
 <!--END_LASTFM_RECENT-->
 
 
