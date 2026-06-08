@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
-> ∙ **[Hurts to Love](https://www.last.fm/music/Beach+House/_/Hurts+to+Love)** - Beach House<br/>
-> ∙ **[Panda Bear](https://www.last.fm/music/of+Montreal/_/Panda+Bear)** - of Montreal<br/>
+> ∙ **[New York City In The Future](https://www.last.fm/music/The+Angels+of+Light/_/New+York+City+In+The+Future)** - The Angels of Light<br/>
+> ∙ **[Floating in the Forth](https://www.last.fm/music/Frightened+Rabbit/_/Floating+in+the+Forth)** - Frightened Rabbit<br/>
+> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
 <!--END_LASTFM_RECENT-->
 
 
