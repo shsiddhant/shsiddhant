@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I'm a Fool to Want You](https://www.last.fm/music/Mitski/_/I%27m+a+Fool+to+Want+You)** - Mitski<br/>
-> ∙ **[I'm a Fool to Want You](https://www.last.fm/music/Mitski/_/I%27m+a+Fool+to+Want+You)** - Mitski<br/>
-> ∙ **[I'm a Fool to Want You](https://www.last.fm/music/Mitski/_/I%27m+a+Fool+to+Want+You)** - Mitski<br/>
+> ∙ **[Porcelain Hands](https://www.last.fm/music/Weatherday/_/Porcelain+Hands)** - Weatherday<br/>
+> ∙ **[Farewell to All These Rotten Teeth](https://www.last.fm/music/Carissa%27s+Wierd/_/Farewell+to+All+These+Rotten+Teeth)** - Carissa's Wierd<br/>
+> ∙ **[Quiet Eyes](https://www.last.fm/music/Sharon+Van+Etten/_/Quiet+Eyes)** - Sharon Van Etten<br/>
 <!--END_LASTFM_RECENT-->
 
 
