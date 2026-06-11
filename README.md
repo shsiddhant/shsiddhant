@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Cosmonauts](https://www.last.fm/music/Fiona+Apple/_/Cosmonauts)** - Fiona Apple<br/>
-> ∙ **[far apart](https://www.last.fm/music/twikipedia/_/far+apart)** - twikipedia<br/>
-> ∙ **[Water dreamer the same](https://www.last.fm/music/Weatherday/_/Water+dreamer+the+same)** - Weatherday<br/>
+> ∙ **[Pea](https://www.last.fm/music/Codeine/_/Pea)** - Codeine<br/>
+> ∙ **[3 Angels](https://www.last.fm/music/Codeine/_/3+Angels)** - Codeine<br/>
+> ∙ **[Old Things](https://www.last.fm/music/Codeine/_/Old+Things)** - Codeine<br/>
 <!--END_LASTFM_RECENT-->
 
 
