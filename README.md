@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[If I Leave](https://www.last.fm/music/Mitski/_/If+I+Leave)** - Mitski<br/>
-> ∙ **[My Suicide](https://www.last.fm/music/The+Angels+of+Light/_/My+Suicide)** - The Angels of Light<br/>
-> ∙ **[Strings That Tie To You](https://www.last.fm/music/Jon+Brion/_/Strings+That+Tie+To+You)** - Jon Brion<br/>
+> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
+> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
+> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
 <!--END_LASTFM_RECENT-->
 
 
