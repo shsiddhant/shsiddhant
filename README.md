@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I'm a Fool to Want You](https://www.last.fm/music/Mitski/_/I%27m+a+Fool+to+Want+You)** - Mitski<br/>
-> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
-> ∙ **[I Want You to Love Me](https://www.last.fm/music/Fiona+Apple/_/I+Want+You+to+Love+Me)** - Fiona Apple<br/>
+> ∙ **[orange, blue with stripes](https://www.last.fm/music/Brave+Little+Abacus/_/orange,+blue+with+stripes)** - Brave Little Abacus<br/>
+> ∙ **[Bug-Infested Floorboards Can We Please Just Leave This Place Now](https://www.last.fm/music/Brave+Little+Abacus/_/Bug-Infested+Floorboards+Can+We+Please+Just+Leave+This+Place+Now)** - Brave Little Abacus<br/>
+> ∙ **[Allston, Massachusetts December 2009 to January 2010](https://www.last.fm/music/Brave+Little+Abacus/_/Allston,+Massachusetts+December+2009+to+January+2010)** - Brave Little Abacus<br/>
 <!--END_LASTFM_RECENT-->
 
 
