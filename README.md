@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
+> ∙ **[Low Rising](https://www.last.fm/music/The+Swell+Season,+Glen+Hansard+&+Mark%C3%A9ta+Irglov%C3%A1/_/Low+Rising)** - The Swell Season, Glen Hansard & Markéta Irglová<br/>
+> ∙ **[If You Want Me](https://www.last.fm/music/Glen+Hansard+&+Mark%C3%A9ta+Irglov%C3%A1/_/If+You+Want+Me)** - Glen Hansard & Markéta Irglová<br/>
+> ∙ **[What Do You Want Me to Say?](https://www.last.fm/music/The+Dismemberment+Plan/_/What+Do+You+Want+Me+to+Say%3F)** - The Dismemberment Plan<br/>
 <!--END_LASTFM_RECENT-->
 
 
