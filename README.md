@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[orange, blue with stripes](https://www.last.fm/music/Brave+Little+Abacus/_/orange,+blue+with+stripes)** - Brave Little Abacus<br/>
-> ∙ **[Bug-Infested Floorboards Can We Please Just Leave This Place Now](https://www.last.fm/music/Brave+Little+Abacus/_/Bug-Infested+Floorboards+Can+We+Please+Just+Leave+This+Place+Now)** - Brave Little Abacus<br/>
-> ∙ **[Allston, Massachusetts December 2009 to January 2010](https://www.last.fm/music/Brave+Little+Abacus/_/Allston,+Massachusetts+December+2009+to+January+2010)** - Brave Little Abacus<br/>
+> ∙ **[Theme](https://www.last.fm/music/Jon+Brion/_/Theme)** - Jon Brion<br/>
+> ∙ **[Phone Call](https://www.last.fm/music/Jon+Brion/_/Phone+Call)** - Jon Brion<br/>
+> ∙ **[Peer Pressure](https://www.last.fm/music/Jon+Brion/_/Peer+Pressure)** - Jon Brion<br/>
 <!--END_LASTFM_RECENT-->
 
 
