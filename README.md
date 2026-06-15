@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Quiet Eyes](https://www.last.fm/music/Sharon+Van+Etten/_/Quiet+Eyes)** - Sharon Van Etten<br/>
-> ∙ **[My Love Mine All Mine](https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine)** - Mitski<br/>
-> ∙ **[Simple Twist of Fate](https://www.last.fm/music/Bob+Dylan/_/Simple+Twist+of+Fate)** - Bob Dylan<br/>
+> ∙ **[Square](https://www.last.fm/music/Mitski/_/Square)** - Mitski<br/>
+> ∙ **[Square](https://www.last.fm/music/Mitski/_/Square)** - Mitski<br/>
+> ∙ **[Square](https://www.last.fm/music/Mitski/_/Square)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
