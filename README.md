@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Calendar Hung Itself…](https://www.last.fm/music/Bright+Eyes/_/The+Calendar+Hung+Itself%E2%80%A6)** - Bright Eyes<br/>
-> ∙ **[Call It Fate, Call It Karma](https://www.last.fm/music/The+Strokes/_/Call+It+Fate,+Call+It+Karma)** - The Strokes<br/>
-> ∙ **[Lover, You Should've Come Over](https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over)** - Jeff Buckley<br/>
+> ∙ **[You Came to Me](https://www.last.fm/music/Beach+House/_/You+Came+to+Me)** - Beach House<br/>
+> ∙ **[But You](https://www.last.fm/music/Alexandra+Savior/_/But+You)** - Alexandra Savior<br/>
+> ∙ **[Lonesome Love](https://www.last.fm/music/Mitski/_/Lonesome+Love)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
