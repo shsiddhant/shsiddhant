@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Someday (triple j Like A Version)](https://www.last.fm/music/Julia+Jacklin/_/Someday+(triple+j+Like+A+Version))** - Julia Jacklin<br/>
-> ∙ **[And I Love Her](https://www.last.fm/music/Kurt+Cobain/_/And+I+Love+Her)** - Kurt Cobain<br/>
-> ∙ **[Love Will Tear Us Apart](https://www.last.fm/music/Joy+Division/_/Love+Will+Tear+Us+Apart)** - Joy Division<br/>
+> ∙ **[The Piano Song](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Piano+Song)** - Carissa's Wierd<br/>
+> ∙ **[Once More to See You](https://www.last.fm/music/Mitski/_/Once+More+to+See+You)** - Mitski<br/>
+> ∙ **[If I Leave](https://www.last.fm/music/Mitski/_/If+I+Leave)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
