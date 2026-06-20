@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[D.A.R.L.I.N.G.](https://www.last.fm/music/Beach+House/_/D.A.R.L.I.N.G.)** - Beach House<br/>
-> ∙ **[D.A.R.L.I.N.G.](https://www.last.fm/music/Beach+House/_/D.A.R.L.I.N.G.)** - Beach House<br/>
-> ∙ **[Heart of Chambers](https://www.last.fm/music/Beach+House/_/Heart+of+Chambers)** - Beach House<br/>
+> 🎶 **[Pitseleh](https://www.last.fm/music/Elliott+Smith/_/Pitseleh)** - Elliott Smith<br/>
+> ∙ **[Pitseleh](https://www.last.fm/music/Elliott+Smith/_/Pitseleh)** - Elliott Smith<br/>
+> ∙ **[No Name #1](https://www.last.fm/music/Elliott+Smith/_/No+Name+%231)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
