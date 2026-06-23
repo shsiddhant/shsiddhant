@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I Know It's Over](https://www.last.fm/music/The+Smiths/_/I+Know+It%27s+Over)** - The Smiths<br/>
-> ∙ **[Once More to See You](https://www.last.fm/music/Mitski/_/Once+More+to+See+You)** - Mitski<br/>
-> ∙ **[I Know](https://www.last.fm/music/Fiona+Apple/_/I+Know)** - Fiona Apple<br/>
+> ∙ **[Don't Look Away](https://www.last.fm/music/The+Magnetic+Fields/_/Don%27t+Look+Away)** - The Magnetic Fields<br/>
+> ∙ **[Velvet Ring](https://www.last.fm/music/Big+Thief/_/Velvet+Ring)** - Big Thief<br/>
+> ∙ **[Peer Pressure](https://www.last.fm/music/Jon+Brion/_/Peer+Pressure)** - Jon Brion<br/>
 <!--END_LASTFM_RECENT-->
 
 
