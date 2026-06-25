@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Square](https://www.last.fm/music/Mitski/_/Square)** - Mitski<br/>
-> ∙ **[But the Regrets Are Killing Me](https://www.last.fm/music/American+Football/_/But+the+Regrets+Are+Killing+Me)** - American Football<br/>
-> ∙ **[You Came to Me](https://www.last.fm/music/Beach+House/_/You+Came+to+Me)** - Beach House<br/>
+> ∙ **[Home Again](https://www.last.fm/music/Beach+House/_/Home+Again)** - Beach House<br/>
+> ∙ **[My Only Friend](https://www.last.fm/music/The+Magnetic+Fields/_/My+Only+Friend)** - The Magnetic Fields<br/>
+> ∙ **[Will Anybody Ever Love Me?](https://www.last.fm/music/Sufjan+Stevens/_/Will+Anybody+Ever+Love+Me%3F)** - Sufjan Stevens<br/>
 <!--END_LASTFM_RECENT-->
 
 
