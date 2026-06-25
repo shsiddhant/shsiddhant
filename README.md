@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Home Again](https://www.last.fm/music/Beach+House/_/Home+Again)** - Beach House<br/>
-> ∙ **[My Only Friend](https://www.last.fm/music/The+Magnetic+Fields/_/My+Only+Friend)** - The Magnetic Fields<br/>
-> ∙ **[Will Anybody Ever Love Me?](https://www.last.fm/music/Sufjan+Stevens/_/Will+Anybody+Ever+Love+Me%3F)** - Sufjan Stevens<br/>
+> ∙ **[Prayer For The Paranoid](https://www.last.fm/music/Mojave+3/_/Prayer+For+The+Paranoid)** - Mojave 3<br/>
+> ∙ **[Public Embarrassment Blues](https://www.last.fm/music/The+Angels+of+Light/_/Public+Embarrassment+Blues)** - The Angels of Light<br/>
+> ∙ **[Pink in the Night](https://www.last.fm/music/Mitski/_/Pink+in+the+Night)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
