@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[So You Are Tired](https://www.last.fm/music/Sufjan+Stevens/_/So+You+Are+Tired)** - Sufjan Stevens<br/>
-> ∙ **[Toothpaste Kisses (Bonus Track)](https://www.last.fm/music/The+Maccabees/_/Toothpaste+Kisses+(Bonus+Track))** - The Maccabees<br/>
-> ∙ **[Sit](https://www.last.fm/music/Japanese+Breakfast/_/Sit)** - Japanese Breakfast<br/>
+> ∙ **[And I Love Her](https://www.last.fm/music/Kurt+Cobain/_/And+I+Love+Her)** - Kurt Cobain<br/>
+> ∙ **[Don't Know How To Keep Loving You](https://www.last.fm/music/Julia+Jacklin/_/Don%27t+Know+How+To+Keep+Loving+You)** - Julia Jacklin<br/>
+> ∙ **[I Still Care for You](https://www.last.fm/music/Ray+LaMontagne/_/I+Still+Care+for+You)** - Ray LaMontagne<br/>
 <!--END_LASTFM_RECENT-->
 
 
