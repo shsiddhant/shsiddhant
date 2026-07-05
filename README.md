@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Toothpaste Kisses (Bonus Track)](https://www.last.fm/music/The+Maccabees/_/Toothpaste+Kisses+(Bonus+Track))** - The Maccabees<br/>
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
-> ∙ **[Mio, min Mio](https://www.last.fm/music/Weatherday/_/Mio,+min+Mio)** - Weatherday<br/>
+> ∙ **[Everything Means Nothing to Me](https://www.last.fm/music/Elliott+Smith/_/Everything+Means+Nothing+to+Me)** - Elliott Smith<br/>
+> ∙ **[September Come Take This Heart Away](https://www.last.fm/music/Carissa%27s+Wierd/_/September+Come+Take+This+Heart+Away)** - Carissa's Wierd<br/>
+> ∙ **[Sober to Death](https://www.last.fm/music/Car+Seat+Headrest/_/Sober+to+Death)** - Car Seat Headrest<br/>
 <!--END_LASTFM_RECENT-->
 
 
