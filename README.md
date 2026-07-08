@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[In Love with a View](https://www.last.fm/music/Mojave+3/_/In+Love+with+a+View)** - Mojave 3<br/>
-> ∙ **[Take Care](https://www.last.fm/music/Beach+House/_/Take+Care)** - Beach House<br/>
-> ∙ **[I'd Like to Walk Around in Your Mind](https://www.last.fm/music/Vashti+Bunyan/_/I%27d+Like+to+Walk+Around+in+Your+Mind)** - Vashti Bunyan<br/>
+> ∙ **[Savior Complex](https://www.last.fm/music/Phoebe+Bridgers/_/Savior+Complex)** - Phoebe Bridgers<br/>
+> ∙ **[D.A.R.L.I.N.G.](https://www.last.fm/music/Beach+House/_/D.A.R.L.I.N.G.)** - Beach House<br/>
+> ∙ **[Seven Words](https://www.last.fm/music/Weyes+Blood/_/Seven+Words)** - Weyes Blood<br/>
 <!--END_LASTFM_RECENT-->
 
 
