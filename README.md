@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Savior Complex](https://www.last.fm/music/Phoebe+Bridgers/_/Savior+Complex)** - Phoebe Bridgers<br/>
-> ∙ **[D.A.R.L.I.N.G.](https://www.last.fm/music/Beach+House/_/D.A.R.L.I.N.G.)** - Beach House<br/>
-> ∙ **[Seven Words](https://www.last.fm/music/Weyes+Blood/_/Seven+Words)** - Weyes Blood<br/>
+> ∙ **[Shit Talk](https://www.last.fm/music/Sufjan+Stevens/_/Shit+Talk)** - Sufjan Stevens<br/>
+> ∙ **[Beyond Love](https://www.last.fm/music/Beach+House/_/Beyond+Love)** - Beach House<br/>
+> ∙ **[Twin Fantasy (Those Boys)](https://www.last.fm/music/Car+Seat+Headrest/_/Twin+Fantasy+(Those+Boys))** - Car Seat Headrest<br/>
 <!--END_LASTFM_RECENT-->
 
 
