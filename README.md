@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Goodbye Evergreen](https://www.last.fm/music/Sufjan+Stevens/_/Goodbye+Evergreen)** - Sufjan Stevens<br/>
-> ∙ **[Blurred View](https://www.last.fm/music/Big+Thief/_/Blurred+View)** - Big Thief<br/>
-> ∙ **[I Want the One I Can't Have](https://www.last.fm/music/The+Smiths/_/I+Want+the+One+I+Can%27t+Have)** - The Smiths<br/>
+> ∙ **[But You](https://www.last.fm/music/Alexandra+Savior/_/But+You)** - Alexandra Savior<br/>
+> ∙ **[You Will. You? Will. You? Will. You? Will.](https://www.last.fm/music/Bright+Eyes/_/You+Will.+You%3F+Will.+You%3F+Will.+You%3F+Will.)** - Bright Eyes<br/>
+> ∙ **[Dallas](https://www.last.fm/music/Cindy+Lee/_/Dallas)** - Cindy Lee<br/>
 <!--END_LASTFM_RECENT-->
 
 
