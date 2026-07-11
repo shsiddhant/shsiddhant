@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[PPP](https://www.last.fm/music/Beach+House/_/PPP)** - Beach House<br/>
-> ∙ **[We Are Nowhere and It's Now](https://www.last.fm/music/Bright+Eyes/_/We+Are+Nowhere+and+It%27s+Now)** - Bright Eyes<br/>
-> ∙ **[Square](https://www.last.fm/music/Mitski/_/Square)** - Mitski<br/>
+> ∙ **[For Your Precious Love](https://www.last.fm/music/Otis+Redding/_/For+Your+Precious+Love)** - Otis Redding<br/>
+> ∙ **[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)** - Elliott Smith<br/>
+> ∙ **[One of a Very Few of a Kind](https://www.last.fm/music/of+Montreal/_/One+of+a+Very+Few+of+a+Kind)** - of Montreal<br/>
 <!--END_LASTFM_RECENT-->
 
 
