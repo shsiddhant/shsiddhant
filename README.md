@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
-> ∙ **[To Be Alone With You](https://www.last.fm/music/Sufjan+Stevens/_/To+Be+Alone+With+You)** - Sufjan Stevens<br/>
-> ∙ **[Where is the Love](https://www.last.fm/music/Mojave+3/_/Where+is+the+Love)** - Mojave 3<br/>
+> 🎶 **[So You Are Tired](https://www.last.fm/music/Sufjan+Stevens/_/So+You+Are+Tired)** - Sufjan Stevens<br/>
+> ∙ **[Well I Wonder](https://www.last.fm/music/The+Smiths/_/Well+I+Wonder)** - The Smiths<br/>
+> ∙ **[Mama You've Been On My Mind (Demo)](https://www.last.fm/music/George+Harrison/_/Mama+You%27ve+Been+On+My+Mind+(Demo))** - George Harrison<br/>
 <!--END_LASTFM_RECENT-->
 
 
