@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Nausicaä (Love Will Be Revealed)](https://www.last.fm/music/Cameron+Winter/_/Nausica%C3%A4+(Love+Will+Be+Revealed))** - Cameron Winter<br/>
 > ∙ **[What Once Was](https://www.last.fm/music/Her%27s/_/What+Once+Was)** - Her's<br/>
 > ∙ **[Flower of Blood](https://www.last.fm/music/Big+Thief/_/Flower+of+Blood)** - Big Thief<br/>
-> ∙ **[Futile Devices](https://www.last.fm/music/Sufjan+Stevens/_/Futile+Devices)** - Sufjan Stevens<br/>
 <!--END_LASTFM_RECENT-->
 
 
