@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Real Love](https://www.last.fm/music/Big+Thief/_/Real+Love)** - Big Thief<br/>
-> ∙ **[She Broke You So Softly](https://www.last.fm/music/Mojave+3/_/She+Broke+You+So+Softly)** - Mojave 3<br/>
-> ∙ **[Love Song](https://www.last.fm/music/Vashti+Bunyan/_/Love+Song)** - Vashti Bunyan<br/>
+> ∙ **[I Know It's Over](https://www.last.fm/music/The+Smiths/_/I+Know+It%27s+Over)** - The Smiths<br/>
+> ∙ **[These Days](https://www.last.fm/music/Nico/_/These+Days)** - Nico<br/>
+> ∙ **[Agatka (Agatha! You’re Being Melodramatic!)](https://www.last.fm/music/Weatherday/_/Agatka+(Agatha!+You%E2%80%99re+Being+Melodramatic!))** - Weatherday<br/>
 <!--END_LASTFM_RECENT-->
 
 
