@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Know It's Over](https://www.last.fm/music/The+Smiths/_/I+Know+It%27s+Over)** - The Smiths<br/>
-> ∙ **[These Days](https://www.last.fm/music/Nico/_/These+Days)** - Nico<br/>
-> ∙ **[Agatka (Agatha! You’re Being Melodramatic!)](https://www.last.fm/music/Weatherday/_/Agatka+(Agatha!+You%E2%80%99re+Being+Melodramatic!))** - Weatherday<br/>
+> ∙ **[I Didn't Understand](https://www.last.fm/music/Elliott+Smith/_/I+Didn%27t+Understand)** - Elliott Smith<br/>
+> ∙ **[Pictures of You](https://www.last.fm/music/The+Cure/_/Pictures+of+You)** - The Cure<br/>
+> ∙ **[Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://www.last.fm/music/Mehdi+Hassan/_/Ranjish+Hi+Sahi+Dil+Hi+Dukhane+Ke+Liye)** - Mehdi Hassan<br/>
 <!--END_LASTFM_RECENT-->
 
 
