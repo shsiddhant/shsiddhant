@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Didn't Understand](https://www.last.fm/music/Elliott+Smith/_/I+Didn%27t+Understand)** - Elliott Smith<br/>
-> ∙ **[Pictures of You](https://www.last.fm/music/The+Cure/_/Pictures+of+You)** - The Cure<br/>
-> ∙ **[Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://www.last.fm/music/Mehdi+Hassan/_/Ranjish+Hi+Sahi+Dil+Hi+Dukhane+Ke+Liye)** - Mehdi Hassan<br/>
+> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
+> ∙ **[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)** - Beach House<br/>
+> ∙ **[My Only Friend](https://www.last.fm/music/The+Magnetic+Fields/_/My+Only+Friend)** - The Magnetic Fields<br/>
 <!--END_LASTFM_RECENT-->
 
 
