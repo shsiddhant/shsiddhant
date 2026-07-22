@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Lightning](https://www.last.fm/music/Mitski/_/Lightning)** - Mitski<br/>
-> ∙ **[Charon's Obol](https://www.last.fm/music/Mitski/_/Charon%27s+Obol)** - Mitski<br/>
-> ∙ **[That White Cat](https://www.last.fm/music/Mitski/_/That+White+Cat)** - Mitski<br/>
+> ∙ **[Hothat Nirar Janyo](https://www.last.fm/music/Sunil+Gangopadhyay/_/Hothat+Nirar+Janyo)** - Sunil Gangopadhyay<br/>
+> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
+> ∙ **[Memory Lane](https://www.last.fm/music/Elliott+Smith/_/Memory+Lane)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
