@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Only Thing](https://www.last.fm/music/Sufjan+Stevens/_/The+Only+Thing)** - Sufjan Stevens<br/>
-> ∙ **[Good Arms vs. Bad Arms](https://www.last.fm/music/Frightened+Rabbit/_/Good+Arms+vs.+Bad+Arms)** - Frightened Rabbit<br/>
-> ∙ **[Mohabbat Karne Wale](https://www.last.fm/music/Mehdi+Hassan/_/Mohabbat+Karne+Wale)** - Mehdi Hassan<br/>
+> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
+> ∙ **[Love Takes Miles](https://www.last.fm/music/Cameron+Winter/_/Love+Takes+Miles)** - Cameron Winter<br/>
+> ∙ **[Quiet Eyes](https://www.last.fm/music/Sharon+Van+Etten/_/Quiet+Eyes)** - Sharon Van Etten<br/>
 <!--END_LASTFM_RECENT-->
 
 
