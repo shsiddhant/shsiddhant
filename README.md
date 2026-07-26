@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
-> ∙ **[Love Takes Miles](https://www.last.fm/music/Cameron+Winter/_/Love+Takes+Miles)** - Cameron Winter<br/>
-> ∙ **[Quiet Eyes](https://www.last.fm/music/Sharon+Van+Etten/_/Quiet+Eyes)** - Sharon Van Etten<br/>
+> ∙ **[Song Of You](https://www.last.fm/music/Airiel/_/Song+Of+You)** - Airiel<br/>
+> ∙ **[Molten Young Lovers](https://www.last.fm/music/Airiel/_/Molten+Young+Lovers)** - Airiel<br/>
+> ∙ **[In Your Room](https://www.last.fm/music/Airiel/_/In+Your+Room)** - Airiel<br/>
 <!--END_LASTFM_RECENT-->
 
 
