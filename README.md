@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Think You Were in My Profile Picture Once](https://www.last.fm/music/Modern+Baseball/_/I+Think+You+Were+in+My+Profile+Picture+Once)** - Modern Baseball<br/>
-> ∙ **[Blurred View](https://www.last.fm/music/Big+Thief/_/Blurred+View)** - Big Thief<br/>
-> ∙ **[Drunk in LA](https://www.last.fm/music/Beach+House/_/Drunk+in+LA)** - Beach House<br/>
+> ∙ **[They'll Only Miss You When You Leave](https://www.last.fm/music/Carissa%27s+Wierd/_/They%27ll+Only+Miss+You+When+You+Leave)** - Carissa's Wierd<br/>
+> ∙ **[Mio, min Mio](https://www.last.fm/music/Weatherday/_/Mio,+min+Mio)** - Weatherday<br/>
+> ∙ **[Only in Dreams](https://www.last.fm/music/Weezer/_/Only+in+Dreams)** - Weezer<br/>
 <!--END_LASTFM_RECENT-->
 
 
