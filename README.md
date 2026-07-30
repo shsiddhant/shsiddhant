@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Once More to See You](https://www.last.fm/music/Mitski/_/Once+More+to+See+You)** - Mitski<br/>
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
-> ∙ **[Lover I Don't Have to Love](https://www.last.fm/music/Bright+Eyes/_/Lover+I+Don%27t+Have+to+Love)** - Bright Eyes<br/>
+> ∙ **[Song Of You](https://www.last.fm/music/Airiel/_/Song+Of+You)** - Airiel<br/>
+> ∙ **[Molten Young Lovers](https://www.last.fm/music/Airiel/_/Molten+Young+Lovers)** - Airiel<br/>
+> ∙ **[New York City In The Future](https://www.last.fm/music/The+Angels+of+Light/_/New+York+City+In+The+Future)** - The Angels of Light<br/>
 <!--END_LASTFM_RECENT-->
 
 
