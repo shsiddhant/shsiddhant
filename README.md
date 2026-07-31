@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Jonathan](https://www.last.fm/music/Fiona+Apple/_/Jonathan)** - Fiona Apple<br/>
-> ∙ **[It's Always You](https://www.last.fm/music/Chet+Baker/_/It%27s+Always+You)** - Chet Baker<br/>
-> ∙ **[Well I Wonder](https://www.last.fm/music/The+Smiths/_/Well+I+Wonder)** - The Smiths<br/>
+> ∙ **[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)** - Japanese Breakfast<br/>
+> ∙ **[orange, blue with stripes](https://www.last.fm/music/Brave+Little+Abacus/_/orange,+blue+with+stripes)** - Brave Little Abacus<br/>
+> ∙ **[You're a Big Girl Now](https://www.last.fm/music/Bob+Dylan/_/You%27re+a+Big+Girl+Now)** - Bob Dylan<br/>
 <!--END_LASTFM_RECENT-->
 
 
