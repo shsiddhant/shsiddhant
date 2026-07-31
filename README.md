@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Saltwater](https://www.last.fm/music/Beach+House/_/Saltwater)** - Beach House<br/>
-> ∙ **[Please Don't Cry, They Stopped Hours Ago](https://www.last.fm/music/Brave+Little+Abacus/_/Please+Don%27t+Cry,+They+Stopped+Hours+Ago)** - Brave Little Abacus<br/>
-> ∙ **[Boa Constrictor](https://www.last.fm/music/The+Magnetic+Fields/_/Boa+Constrictor)** - The Magnetic Fields<br/>
+> ∙ **[Jonathan](https://www.last.fm/music/Fiona+Apple/_/Jonathan)** - Fiona Apple<br/>
+> ∙ **[It's Always You](https://www.last.fm/music/Chet+Baker/_/It%27s+Always+You)** - Chet Baker<br/>
+> ∙ **[Well I Wonder](https://www.last.fm/music/The+Smiths/_/Well+I+Wonder)** - The Smiths<br/>
 <!--END_LASTFM_RECENT-->
 
 
