@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)** - Japanese Breakfast<br/>
-> ∙ **[orange, blue with stripes](https://www.last.fm/music/Brave+Little+Abacus/_/orange,+blue+with+stripes)** - Brave Little Abacus<br/>
-> ∙ **[You're a Big Girl Now](https://www.last.fm/music/Bob+Dylan/_/You%27re+a+Big+Girl+Now)** - Bob Dylan<br/>
+> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
+> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
+> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
 <!--END_LASTFM_RECENT-->
 
 
