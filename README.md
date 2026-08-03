@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Goodbye, My Danish Sweetheart](https://www.last.fm/music/Mitski/_/Goodbye,+My+Danish+Sweetheart)** - Mitski<br/>
-> ∙ **[Futile Devices](https://www.last.fm/music/Sufjan+Stevens/_/Futile+Devices)** - Sufjan Stevens<br/>
-> ∙ **[Chances](https://www.last.fm/music/The+Strokes/_/Chances)** - The Strokes<br/>
+> ∙ **[It's Easy to Sleep When You're Dead](https://www.last.fm/music/of+Montreal/_/It%27s+Easy+to+Sleep+When+You%27re+Dead)** - of Montreal<br/>
+> ∙ **[What Do You Want Me to Say?](https://www.last.fm/music/The+Dismemberment+Plan/_/What+Do+You+Want+Me+to+Say%3F)** - The Dismemberment Plan<br/>
+> ∙ **[A Highway Got Paved Over My Future, I Drive It Getting To School](https://www.last.fm/music/Brave+Little+Abacus/_/A+Highway+Got+Paved+Over+My+Future,+I+Drive+It+Getting+To+School)** - Brave Little Abacus<br/>
 <!--END_LASTFM_RECENT-->
 
 
