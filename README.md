@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
-> ∙ **[Ruined](https://www.last.fm/music/Adrianne+Lenker/_/Ruined)** - Adrianne Lenker<br/>
-> ∙ **[THE SHADE](https://www.last.fm/music/Rex+Orange+County/_/THE+SHADE)** - Rex Orange County<br/>
+> ∙ **[No Distance Left to Run](https://www.last.fm/music/Blur/_/No+Distance+Left+to+Run)** - Blur<br/>
+> ∙ **[Ladies and Gentlemen We Are Floating in Space](https://www.last.fm/music/Spiritualized/_/Ladies+and+Gentlemen+We+Are+Floating+in+Space)** - Spiritualized<br/>
+> ∙ **[Simple Twist of Fate (Live at Harvard Square Theatre, Cambridge, MA - November 1975)](https://www.last.fm/music/Bob+Dylan/_/Simple+Twist+of+Fate+(Live+at+Harvard+Square+Theatre,+Cambridge,+MA+-+November+1975))** - Bob Dylan<br/>
 <!--END_LASTFM_RECENT-->
 
 
