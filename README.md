@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Walk in the Park](https://www.last.fm/music/Beach+House/_/Walk+in+the+Park)** - Beach House<br/>
-> ∙ **[True Love Will Find You In The End](https://www.last.fm/music/Daniel+Johnston/_/True+Love+Will+Find+You+In+The+End)** - Daniel Johnston<br/>
-> ∙ **[Pictures of You](https://www.last.fm/music/The+Cure/_/Pictures+of+You)** - The Cure<br/>
+> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
+> ∙ **[Sarah](https://www.last.fm/music/Ray+LaMontagne/_/Sarah)** - Ray LaMontagne<br/>
+> ∙ **[I Love You, Honeybear](https://www.last.fm/music/Father+John+Misty/_/I+Love+You,+Honeybear)** - Father John Misty<br/>
 <!--END_LASTFM_RECENT-->
 
 
