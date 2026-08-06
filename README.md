@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
-> ∙ **[Sarah](https://www.last.fm/music/Ray+LaMontagne/_/Sarah)** - Ray LaMontagne<br/>
-> ∙ **[I Love You, Honeybear](https://www.last.fm/music/Father+John+Misty/_/I+Love+You,+Honeybear)** - Father John Misty<br/>
+> ∙ **[My Backwards Walk](https://www.last.fm/music/Frightened+Rabbit/_/My+Backwards+Walk)** - Frightened Rabbit<br/>
+> ∙ **[Drop the Guillotine](https://www.last.fm/music/Peach+Pit/_/Drop+the+Guillotine)** - Peach Pit<br/>
+> ∙ **[All I Want Is You](https://www.last.fm/music/Cindy+Lee/_/All+I+Want+Is+You)** - Cindy Lee<br/>
 <!--END_LASTFM_RECENT-->
 
 
