@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Public Embarrassment Blues](https://www.last.fm/music/The+Angels+of+Light/_/Public+Embarrassment+Blues)** - The Angels of Light<br/>
-> ∙ **[I Want To Be Well](https://www.last.fm/music/Sufjan+Stevens/_/I+Want+To+Be+Well)** - Sufjan Stevens<br/>
-> ∙ **[Embarrassing paintings (Agatha showed great initiative in art class this week)](https://www.last.fm/music/Weatherday/_/Embarrassing+paintings+(Agatha+showed+great+initiative+in+art+class+this+week))** - Weatherday<br/>
+> ∙ **[Parting Gift](https://www.last.fm/music/Fiona+Apple/_/Parting+Gift)** - Fiona Apple<br/>
+> ∙ **[The Ghost of a Dead Hummingbird Flying Around the Room](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Ghost+of+a+Dead+Hummingbird+Flying+Around+the+Room)** - Carissa's Wierd<br/>
+> ∙ **[King's Crossing](https://www.last.fm/music/Elliott+Smith/_/King%27s+Crossing)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
