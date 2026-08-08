@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Think You Were in My Profile Picture Once](https://www.last.fm/music/Modern+Baseball/_/I+Think+You+Were+in+My+Profile+Picture+Once)** - Modern Baseball<br/>
-> ∙ **[Pitseleh](https://www.last.fm/music/Elliott+Smith/_/Pitseleh)** - Elliott Smith<br/>
-> ∙ **[Mary](https://www.last.fm/music/Big+Thief/_/Mary)** - Big Thief<br/>
+> ∙ **[Concorde](https://www.last.fm/music/Black+Country,+New+Road/_/Concorde)** - Black Country, New Road<br/>
+> ∙ **[First Love](https://www.last.fm/music/The+Maccabees/_/First+Love)** - The Maccabees<br/>
+> ∙ **[Katy Song](https://www.last.fm/music/Red+House+Painters/_/Katy+Song)** - Red House Painters<br/>
 <!--END_LASTFM_RECENT-->
 
 
