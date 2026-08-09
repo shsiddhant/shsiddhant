@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Parting Gift](https://www.last.fm/music/Fiona+Apple/_/Parting+Gift)** - Fiona Apple<br/>
-> ∙ **[The Ghost of a Dead Hummingbird Flying Around the Room](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Ghost+of+a+Dead+Hummingbird+Flying+Around+the+Room)** - Carissa's Wierd<br/>
-> ∙ **[King's Crossing](https://www.last.fm/music/Elliott+Smith/_/King%27s+Crossing)** - Elliott Smith<br/>
+> ∙ **[Molten Young Lovers](https://www.last.fm/music/Airiel/_/Molten+Young+Lovers)** - Airiel<br/>
+> ∙ **[I Don't Believe in the Sun](https://www.last.fm/music/The+Magnetic+Fields/_/I+Don%27t+Believe+in+the+Sun)** - The Magnetic Fields<br/>
+> ∙ **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
