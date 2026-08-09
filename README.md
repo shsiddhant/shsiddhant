@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Molten Young Lovers](https://www.last.fm/music/Airiel/_/Molten+Young+Lovers)** - Airiel<br/>
-> ∙ **[I Don't Believe in the Sun](https://www.last.fm/music/The+Magnetic+Fields/_/I+Don%27t+Believe+in+the+Sun)** - The Magnetic Fields<br/>
-> ∙ **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
+> ∙ **[Real Love](https://www.last.fm/music/Big+Thief/_/Real+Love)** - Big Thief<br/>
+> ∙ **[High and Dry](https://www.last.fm/music/Radiohead/_/High+and+Dry)** - Radiohead<br/>
+> ∙ **[Still Crazy After All These Years](https://www.last.fm/music/Paul+Simon/_/Still+Crazy+After+All+These+Years)** - Paul Simon<br/>
 <!--END_LASTFM_RECENT-->
 
 
