@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Real Love](https://www.last.fm/music/Big+Thief/_/Real+Love)** - Big Thief<br/>
-> ∙ **[High and Dry](https://www.last.fm/music/Radiohead/_/High+and+Dry)** - Radiohead<br/>
-> ∙ **[Still Crazy After All These Years](https://www.last.fm/music/Paul+Simon/_/Still+Crazy+After+All+These+Years)** - Paul Simon<br/>
+> 🎶 **[If You Feel You Must Go, Don't Go!](https://www.last.fm/music/of+Montreal/_/If+You+Feel+You+Must+Go,+Don%27t+Go!)** - of Montreal<br/>
+> ∙ **[If You Feel You Must Go, Don't Go!](https://www.last.fm/music/of+Montreal/_/If+You+Feel+You+Must+Go,+Don%27t+Go!)** - of Montreal<br/>
+> ∙ **[I Want to Be Cold](https://www.last.fm/music/The+Microphones/_/I+Want+to+Be+Cold)** - The Microphones<br/>
 <!--END_LASTFM_RECENT-->
 
 
