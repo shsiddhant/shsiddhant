@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[If You Feel You Must Go, Don't Go!](https://www.last.fm/music/of+Montreal/_/If+You+Feel+You+Must+Go,+Don%27t+Go!)** - of Montreal<br/>
-> ∙ **[If You Feel You Must Go, Don't Go!](https://www.last.fm/music/of+Montreal/_/If+You+Feel+You+Must+Go,+Don%27t+Go!)** - of Montreal<br/>
-> ∙ **[I Want to Be Cold](https://www.last.fm/music/The+Microphones/_/I+Want+to+Be+Cold)** - The Microphones<br/>
+> ∙ **[I'm Sorry I Love You](https://www.last.fm/music/The+Magnetic+Fields/_/I%27m+Sorry+I+Love+You)** - The Magnetic Fields<br/>
+> ∙ **[Flowers In December](https://www.last.fm/music/Mazzy+Star/_/Flowers+In+December)** - Mazzy Star<br/>
+> ∙ **[All of My Thoughts](https://www.last.fm/music/Spiritualized/_/All+of+My+Thoughts)** - Spiritualized<br/>
 <!--END_LASTFM_RECENT-->
 
 
