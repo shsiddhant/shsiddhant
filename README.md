@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ami Chini Go Chini Tomare](https://www.last.fm/music/Kishore+Kumar/_/Ami+Chini+Go+Chini+Tomare)** - Kishore Kumar<br/>
-> ∙ **[I'm Sorry I Love You](https://www.last.fm/music/The+Magnetic+Fields/_/I%27m+Sorry+I+Love+You)** - The Magnetic Fields<br/>
-> ∙ **[Flowers In December](https://www.last.fm/music/Mazzy+Star/_/Flowers+In+December)** - Mazzy Star<br/>
+> ∙ **[Will Anybody Ever Love Me?](https://www.last.fm/music/Sufjan+Stevens/_/Will+Anybody+Ever+Love+Me%3F)** - Sufjan Stevens<br/>
+> ∙ **[Do You Ever Remember?](https://www.last.fm/music/Molly+Drake/_/Do+You+Ever+Remember%3F)** - Molly Drake<br/>
+> ∙ **[Words](https://www.last.fm/music/Gregory+Alan+Isakov/_/Words)** - Gregory Alan Isakov<br/>
 <!--END_LASTFM_RECENT-->
 
 
