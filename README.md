@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Will Anybody Ever Love Me?](https://www.last.fm/music/Sufjan+Stevens/_/Will+Anybody+Ever+Love+Me%3F)** - Sufjan Stevens<br/>
-> ∙ **[Do You Ever Remember?](https://www.last.fm/music/Molly+Drake/_/Do+You+Ever+Remember%3F)** - Molly Drake<br/>
-> ∙ **[Words](https://www.last.fm/music/Gregory+Alan+Isakov/_/Words)** - Gregory Alan Isakov<br/>
+> 🎶 **[So Real](https://www.last.fm/music/Jeff+Buckley/_/So+Real)** - Jeff Buckley<br/>
+> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
+> ∙ **[Half Dead](https://www.last.fm/music/The+Mountain+Goats/_/Half+Dead)** - The Mountain Goats<br/>
 <!--END_LASTFM_RECENT-->
 
 
