@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Can't Keep Anything](https://www.last.fm/music/Cameron+Winter/_/Can%27t+Keep+Anything)** - Cameron Winter<br/>
-> ∙ **[$0](https://www.last.fm/music/Cameron+Winter/_/$0)** - Cameron Winter<br/>
-> ∙ **[Nina + Field of Cops](https://www.last.fm/music/Cameron+Winter/_/Nina+%252B+Field+of+Cops)** - Cameron Winter<br/>
+> ∙ **[Dallas](https://www.last.fm/music/Cindy+Lee/_/Dallas)** - Cindy Lee<br/>
+> ∙ **[Girl From the North Country](https://www.last.fm/music/Bob+Dylan/_/Girl+From+the+North+Country)** - Bob Dylan<br/>
+> ∙ **[Last Words of a Shooting Star](https://www.last.fm/music/Mitski/_/Last+Words+of+a+Shooting+Star)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
