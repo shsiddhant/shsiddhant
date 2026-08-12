@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Inside Out](https://www.last.fm/music/Duster/_/Inside+Out)** - Duster<br/>
-> ∙ **[Strings That Tie To You](https://www.last.fm/music/Jon+Brion/_/Strings+That+Tie+To+You)** - Jon Brion<br/>
-> ∙ **[First Love](https://www.last.fm/music/The+Maccabees/_/First+Love)** - The Maccabees<br/>
+> ∙ **[Can't Keep Anything](https://www.last.fm/music/Cameron+Winter/_/Can%27t+Keep+Anything)** - Cameron Winter<br/>
+> ∙ **[$0](https://www.last.fm/music/Cameron+Winter/_/$0)** - Cameron Winter<br/>
+> ∙ **[Nina + Field of Cops](https://www.last.fm/music/Cameron+Winter/_/Nina+%252B+Field+of+Cops)** - Cameron Winter<br/>
 <!--END_LASTFM_RECENT-->
 
 
