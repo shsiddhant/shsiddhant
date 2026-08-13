@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Porcelain](https://www.last.fm/music/Ozean/_/Porcelain)** - Ozean<br/>
-> ∙ **[Fall](https://www.last.fm/music/Ozean/_/Fall)** - Ozean<br/>
-> ∙ **[Scenic](https://www.last.fm/music/Ozean/_/Scenic)** - Ozean<br/>
+> ∙ **[Posing For Cars](https://www.last.fm/music/Japanese+Breakfast/_/Posing+For+Cars)** - Japanese Breakfast<br/>
+> ∙ **[My Love Mine All Mine](https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine)** - Mitski<br/>
+> ∙ **[Dagger](https://www.last.fm/music/Slowdive/_/Dagger)** - Slowdive<br/>
 <!--END_LASTFM_RECENT-->
 
 
