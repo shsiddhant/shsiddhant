@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[You See Through Me](https://www.last.fm/music/Michael+Gira/_/You+See+Through+Me)** - Michael Gira<br/>
-> ∙ **[You See Through Me](https://www.last.fm/music/Michael+Gira/_/You+See+Through+Me)** - Michael Gira<br/>
-> ∙ **[You See Through Me](https://www.last.fm/music/Michael+Gira/_/You+See+Through+Me)** - Michael Gira<br/>
+> ∙ **[Porcelain](https://www.last.fm/music/Ozean/_/Porcelain)** - Ozean<br/>
+> ∙ **[Fall](https://www.last.fm/music/Ozean/_/Fall)** - Ozean<br/>
+> ∙ **[Scenic](https://www.last.fm/music/Ozean/_/Scenic)** - Ozean<br/>
 <!--END_LASTFM_RECENT-->
 
 
