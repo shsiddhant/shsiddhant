@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Lost Weekend](https://www.last.fm/music/Phoebe+Bridgers/_/Lost+Weekend)** - Phoebe Bridgers<br/>
-> ∙ **[Bobby](https://www.last.fm/music/Phoebe+Bridgers/_/Bobby)** - Phoebe Bridgers<br/>
-> ∙ **[The Governor’s Waltz](https://www.last.fm/music/Phoebe+Bridgers/_/The+Governor%E2%80%99s+Waltz)** - Phoebe Bridgers<br/>
+> 🎶 **[Cancer of the Skull](https://www.last.fm/music/Cameron+Winter/_/Cancer+of+the+Skull)** - Cameron Winter<br/>
+> ∙ **[Cancer of the Skull](https://www.last.fm/music/Cameron+Winter/_/Cancer+of+the+Skull)** - Cameron Winter<br/>
+> ∙ **[Drinking Age](https://www.last.fm/music/Cameron+Winter/_/Drinking+Age)** - Cameron Winter<br/>
 <!--END_LASTFM_RECENT-->
 
 
