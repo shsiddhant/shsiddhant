@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Panda Bear](https://www.last.fm/music/of+Montreal/_/Panda+Bear)** - of Montreal<br/>
-> ∙ **[If You See Her, Say Hello](https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello)** - Bob Dylan<br/>
-> ∙ **[Unloveable (Single B-Side)](https://www.last.fm/music/The+Smiths/_/Unloveable+(Single+B-Side))** - The Smiths<br/>
+> ∙ **[I Want You to Love Me](https://www.last.fm/music/Fiona+Apple/_/I+Want+You+to+Love+Me)** - Fiona Apple<br/>
+> ∙ **[Don’t Know How To Keep Loving You](https://www.last.fm/music/Julia+Jacklin/_/Don%E2%80%99t+Know+How+To+Keep+Loving+You)** - Julia Jacklin<br/>
+> ∙ **[Drop the Guillotine](https://www.last.fm/music/Peach+Pit/_/Drop+the+Guillotine)** - Peach Pit<br/>
 <!--END_LASTFM_RECENT-->
 
 
