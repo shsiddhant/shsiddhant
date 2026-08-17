@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Shit Talk](https://www.last.fm/music/Sufjan+Stevens/_/Shit+Talk)** - Sufjan Stevens<br/>
-> ∙ **[Spotless Mind](https://www.last.fm/music/Jon+Brion/_/Spotless+Mind)** - Jon Brion<br/>
-> ∙ **[What Once Was](https://www.last.fm/music/Her%27s/_/What+Once+Was)** - Her's<br/>
+> ∙ **[Low Budget Slow Motion Soundtrack Song for the Leaving Scene](https://www.last.fm/music/Carissa%27s+Wierd/_/Low+Budget+Slow+Motion+Soundtrack+Song+for+the+Leaving+Scene)** - Carissa's Wierd<br/>
+> ∙ **[Ignorant Piece of Shit](https://www.last.fm/music/Carissa%27s+Wierd/_/Ignorant+Piece+of+Shit)** - Carissa's Wierd<br/>
+> ∙ **[Meaningless](https://www.last.fm/music/The+Magnetic+Fields/_/Meaningless)** - The Magnetic Fields<br/>
 <!--END_LASTFM_RECENT-->
 
 
