@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Try as I May](https://www.last.fm/music/Cameron+Winter/_/Try+as+I+May)** - Cameron Winter<br/>
 > ∙ **[Instead Of Here](https://www.last.fm/music/Mitski/_/Instead+Of+Here)** - Mitski<br/>
 > ∙ **[Last Night I Dreamt That Somebody Loved Me](https://www.last.fm/music/The+Smiths/_/Last+Night+I+Dreamt+That+Somebody+Loved+Me)** - The Smiths<br/>
-> ∙ **[First Love](https://www.last.fm/music/The+Maccabees/_/First+Love)** - The Maccabees<br/>
 <!--END_LASTFM_RECENT-->
 
 
