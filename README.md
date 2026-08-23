@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[The Biggest Lie](https://www.last.fm/music/Elliott+Smith/_/The+Biggest+Lie)** - Elliott Smith<br/>
-> ∙ **[Waltz #2 (XO)](https://www.last.fm/music/Elliott+Smith/_/Waltz+%232+(XO))** - Elliott Smith<br/>
-> ∙ **[Strung Out Again](https://www.last.fm/music/Elliott+Smith/_/Strung+Out+Again)** - Elliott Smith<br/>
+> ∙ **[Say Yes](https://www.last.fm/music/Elliott+Smith/_/Say+Yes)** - Elliott Smith<br/>
+> ∙ **[No Name #1](https://www.last.fm/music/Elliott+Smith/_/No+Name+%231)** - Elliott Smith<br/>
+> ∙ **[Clementine](https://www.last.fm/music/Elliott+Smith/_/Clementine)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
