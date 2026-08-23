@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Say Yes](https://www.last.fm/music/Elliott+Smith/_/Say+Yes)** - Elliott Smith<br/>
-> ∙ **[No Name #1](https://www.last.fm/music/Elliott+Smith/_/No+Name+%231)** - Elliott Smith<br/>
-> ∙ **[Clementine](https://www.last.fm/music/Elliott+Smith/_/Clementine)** - Elliott Smith<br/>
+> ∙ **[Simple Twist of Fate (Live at Harvard Square Theatre, Cambridge, MA - November 1975)](https://www.last.fm/music/Bob+Dylan/_/Simple+Twist+of+Fate+(Live+at+Harvard+Square+Theatre,+Cambridge,+MA+-+November+1975))** - Bob Dylan<br/>
+> ∙ **[All My Little Words](https://www.last.fm/music/The+Magnetic+Fields/_/All+My+Little+Words)** - The Magnetic Fields<br/>
+> ∙ **[Concorde](https://www.last.fm/music/Black+Country,+New+Road/_/Concorde)** - Black Country, New Road<br/>
 <!--END_LASTFM_RECENT-->
 
 
