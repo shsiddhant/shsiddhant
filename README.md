@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[September Come Take This Heart Away](https://www.last.fm/music/Carissa%27s+Wierd/_/September+Come+Take+This+Heart+Away)** - Carissa's Wierd<br/>
-> ∙ **[Well I Wonder](https://www.last.fm/music/The+Smiths/_/Well+I+Wonder)** - The Smiths<br/>
-> ∙ **[Crushed](https://www.last.fm/music/S/_/Crushed)** - S<br/>
+> ∙ **[Bitter Tears](https://www.last.fm/music/The+Magnetic+Fields/_/Bitter+Tears)** - The Magnetic Fields<br/>
+> ∙ **[O I Long to Feel Your Arms Around Me](https://www.last.fm/music/Father+John+Misty/_/O+I+Long+to+Feel+Your+Arms+Around+Me)** - Father John Misty<br/>
+> ∙ **[Home of the Brave](https://www.last.fm/music/Spiritualized/_/Home+of+the+Brave)** - Spiritualized<br/>
 <!--END_LASTFM_RECENT-->
 
 
