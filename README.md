@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[All of My Thoughts](https://www.last.fm/music/Spiritualized/_/All+of+My+Thoughts)** - Spiritualized<br/>
-> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
-> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
+> ∙ **[Cosmonauts](https://www.last.fm/music/Fiona+Apple/_/Cosmonauts)** - Fiona Apple<br/>
+> ∙ **[The Frost](https://www.last.fm/music/Mitski/_/The+Frost)** - Mitski<br/>
+> ∙ **[Carry Me Out](https://www.last.fm/music/Mitski/_/Carry+Me+Out)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
