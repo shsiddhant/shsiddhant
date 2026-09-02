@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Poke](https://www.last.fm/music/Frightened+Rabbit/_/Poke)** - Frightened Rabbit<br/>
-> ∙ **[It's Easy to Sleep When You're Dead](https://www.last.fm/music/of+Montreal/_/It%27s+Easy+to+Sleep+When+You%27re+Dead)** - of Montreal<br/>
-> ∙ **[Tears Dry On Their Own (Live Jo Whiley, BBC Live Lounge Session / 2007)](https://www.last.fm/music/Amy+Winehouse/_/Tears+Dry+On+Their+Own+(Live+Jo+Whiley,+BBC+Live+Lounge+Session+%2F+2007))** - Amy Winehouse<br/>
+> ∙ **[hades in the dead of winter](https://www.last.fm/music/My+Dead+Girlfriend/_/hades+in+the+dead+of+winter)** - My Dead Girlfriend<br/>
+> ∙ **[musician](https://www.last.fm/music/Kinoko+Teikoku/_/musician)** - Kinoko Teikoku<br/>
+> ∙ **[can't run away](https://www.last.fm/music/Brave+Little+Abacus/_/can%27t+run+away)** - Brave Little Abacus<br/>
 <!--END_LASTFM_RECENT-->
 
 
