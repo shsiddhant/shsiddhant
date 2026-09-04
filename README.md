@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[hades in the dead of winter](https://www.last.fm/music/My+Dead+Girlfriend/_/hades+in+the+dead+of+winter)** - My Dead Girlfriend<br/>
-> ∙ **[musician](https://www.last.fm/music/Kinoko+Teikoku/_/musician)** - Kinoko Teikoku<br/>
-> ∙ **[can't run away](https://www.last.fm/music/Brave+Little+Abacus/_/can%27t+run+away)** - Brave Little Abacus<br/>
+> ∙ **[Farewell to All These Rotten Teeth](https://www.last.fm/music/Carissa%27s+Wierd/_/Farewell+to+All+These+Rotten+Teeth)** - Carissa's Wierd<br/>
+> ∙ **[Waltz #2 (XO)](https://www.last.fm/music/Elliott+Smith/_/Waltz+%232+(XO))** - Elliott Smith<br/>
+> ∙ **[Instead Of Here](https://www.last.fm/music/Mitski/_/Instead+Of+Here)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 
