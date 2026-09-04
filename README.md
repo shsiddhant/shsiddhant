@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Farewell to All These Rotten Teeth](https://www.last.fm/music/Carissa%27s+Wierd/_/Farewell+to+All+These+Rotten+Teeth)** - Carissa's Wierd<br/>
-> ∙ **[Waltz #2 (XO)](https://www.last.fm/music/Elliott+Smith/_/Waltz+%232+(XO))** - Elliott Smith<br/>
-> ∙ **[Instead Of Here](https://www.last.fm/music/Mitski/_/Instead+Of+Here)** - Mitski<br/>
+> 🎶 **[Jonathan](https://www.last.fm/music/Fiona+Apple/_/Jonathan)** - Fiona Apple<br/>
+> ∙ **[Jonathan](https://www.last.fm/music/Fiona+Apple/_/Jonathan)** - Fiona Apple<br/>
+> ∙ **[Dragon New Warm Mountain I Believe in You](https://www.last.fm/music/Big+Thief/_/Dragon+New+Warm+Mountain+I+Believe+in+You)** - Big Thief<br/>
 <!--END_LASTFM_RECENT-->
 
 
