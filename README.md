@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Between the Bars](https://www.last.fm/music/Elliott+Smith/_/Between+the+Bars)** - Elliott Smith<br/>
-> ∙ **[Love Song](https://www.last.fm/music/Vashti+Bunyan/_/Love+Song)** - Vashti Bunyan<br/>
-> ∙ **[Jonathan](https://www.last.fm/music/Fiona+Apple/_/Jonathan)** - Fiona Apple<br/>
+> ∙ **[Oh My Love (The Ultimate Mix)](https://www.last.fm/music/John+Lennon/_/Oh+My+Love+(The+Ultimate+Mix))** - John Lennon<br/>
+> ∙ **[Velvet Ring](https://www.last.fm/music/Big+Thief/_/Velvet+Ring)** - Big Thief<br/>
+> ∙ **[For No One (2022 Mix)](https://www.last.fm/music/The+Beatles/_/For+No+One+(2022+Mix))** - The Beatles<br/>
 <!--END_LASTFM_RECENT-->
 
 
