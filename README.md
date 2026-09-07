@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Didn't Understand](https://www.last.fm/music/Elliott+Smith/_/I+Didn%27t+Understand)** - Elliott Smith<br/>
-> ∙ **[Star](https://www.last.fm/music/Mitski/_/Star)** - Mitski<br/>
-> ∙ **[Goodbye, My Danish Sweetheart](https://www.last.fm/music/Mitski/_/Goodbye,+My+Danish+Sweetheart)** - Mitski<br/>
+> ∙ **[Seven Words](https://www.last.fm/music/Weyes+Blood/_/Seven+Words)** - Weyes Blood<br/>
+> ∙ **[I Know](https://www.last.fm/music/Fiona+Apple/_/I+Know)** - Fiona Apple<br/>
+> ∙ **[Do You Need My Love](https://www.last.fm/music/Weyes+Blood/_/Do+You+Need+My+Love)** - Weyes Blood<br/>
 <!--END_LASTFM_RECENT-->
 
 
