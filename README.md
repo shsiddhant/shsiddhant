@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Olir Katha Shune Bakul Hase](https://www.last.fm/music/Hemanta+Mukherjee/_/Olir+Katha+Shune+Bakul+Hase)** - Hemanta Mukherjee<br/>
-> ∙ **[Olir Katha Shune Bakul Hase](https://www.last.fm/music/Hemanta+Mukherjee/_/Olir+Katha+Shune+Bakul+Hase)** - Hemanta Mukherjee<br/>
-> ∙ **[To Be Alone With You](https://www.last.fm/music/Sufjan+Stevens/_/To+Be+Alone+With+You)** - Sufjan Stevens<br/>
+> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
+> ∙ **[Parting Gift](https://www.last.fm/music/Fiona+Apple/_/Parting+Gift)** - Fiona Apple<br/>
+> ∙ **[Last Night I Dreamt That Somebody Loved Me](https://www.last.fm/music/The+Smiths/_/Last+Night+I+Dreamt+That+Somebody+Loved+Me)** - The Smiths<br/>
 <!--END_LASTFM_RECENT-->
 
 
