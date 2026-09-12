@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Want You](https://www.last.fm/music/Mitski/_/I+Want+You)** - Mitski<br/>
-> ∙ **[Nobody](https://www.last.fm/music/Mitski/_/Nobody)** - Mitski<br/>
-> ∙ **[First Love](https://www.last.fm/music/The+Maccabees/_/First+Love)** - The Maccabees<br/>
+> ∙ **[You Came to Me](https://www.last.fm/music/Beach+House/_/You+Came+to+Me)** - Beach House<br/>
+> ∙ **[If You Want Me](https://www.last.fm/music/Glen+Hansard+&+Mark%C3%A9ta+Irglov%C3%A1/_/If+You+Want+Me)** - Glen Hansard & Markéta Irglová<br/>
+> ∙ **[I Think You Were in My Profile Picture Once](https://www.last.fm/music/Modern+Baseball/_/I+Think+You+Were+in+My+Profile+Picture+Once)** - Modern Baseball<br/>
 <!--END_LASTFM_RECENT-->
 
 
