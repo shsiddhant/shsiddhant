@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
-> ∙ **[Alison](https://www.last.fm/music/Slowdive/_/Alison)** - Slowdive<br/>
-> ∙ **[True Love](https://www.last.fm/music/Elliott+Smith/_/True+Love)** - Elliott Smith<br/>
+> ∙ **[Once More to See You](https://www.last.fm/music/Mitski/_/Once+More+to+See+You)** - Mitski<br/>
+> ∙ **[Boa Constrictor](https://www.last.fm/music/The+Magnetic+Fields/_/Boa+Constrictor)** - The Magnetic Fields<br/>
+> ∙ **[Blurred View](https://www.last.fm/music/Big+Thief/_/Blurred+View)** - Big Thief<br/>
 <!--END_LASTFM_RECENT-->
 
 
