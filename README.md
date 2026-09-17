@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Once More to See You](https://www.last.fm/music/Mitski/_/Once+More+to+See+You)** - Mitski<br/>
-> ∙ **[Boa Constrictor](https://www.last.fm/music/The+Magnetic+Fields/_/Boa+Constrictor)** - The Magnetic Fields<br/>
-> ∙ **[Blurred View](https://www.last.fm/music/Big+Thief/_/Blurred+View)** - Big Thief<br/>
+> ∙ **[Older than before (Oswald made no way for himself)](https://www.last.fm/music/Weatherday/_/Older+than+before+(Oswald+made+no+way+for+himself))** - Weatherday<br/>
+> ∙ **[Instead Of Here](https://www.last.fm/music/Mitski/_/Instead+Of+Here)** - Mitski<br/>
+> ∙ **[No Name No. 5](https://www.last.fm/music/Elliott+Smith/_/No+Name+No.+5)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 
