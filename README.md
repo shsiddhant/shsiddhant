@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Tactics](https://www.last.fm/music/Japanese+Breakfast/_/Tactics)** - Japanese Breakfast<br/>
-> ∙ **[You Came to Me](https://www.last.fm/music/Beach+House/_/You+Came+to+Me)** - Beach House<br/>
-> ∙ **[The Piano Song](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Piano+Song)** - Carissa's Wierd<br/>
+> ∙ **[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)** - Slowdive<br/>
+> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
+> ∙ **[Long-Forgotten Fairytale](https://www.last.fm/music/The+Magnetic+Fields/_/Long-Forgotten+Fairytale)** - The Magnetic Fields<br/>
 <!--END_LASTFM_RECENT-->
 
 
