@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Place Where He Inserted The Blade](https://www.last.fm/music/Black+Country,+New+Road/_/The+Place+Where+He+Inserted+The+Blade)** - Black Country, New Road<br/>
-> ∙ **[And I Love Her](https://www.last.fm/music/Kurt+Cobain/_/And+I+Love+Her)** - Kurt Cobain<br/>
-> ∙ **[Drip Drop](https://www.last.fm/music/killkiyoshi/_/Drip+Drop)** - killkiyoshi<br/>
+> ∙ **[Some Things Last a Long Time](https://www.last.fm/music/Beach+House/_/Some+Things+Last+a+Long+Time)** - Beach House<br/>
+> ∙ **[Heart of Chambers](https://www.last.fm/music/Beach+House/_/Heart+of+Chambers)** - Beach House<br/>
+> ∙ **[Holy Dances](https://www.last.fm/music/Beach+House/_/Holy+Dances)** - Beach House<br/>
 <!--END_LASTFM_RECENT-->
 
 
