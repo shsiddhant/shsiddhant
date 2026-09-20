@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)** - Slowdive<br/>
-> ∙ **[Broken Heart](https://www.last.fm/music/Spiritualized/_/Broken+Heart)** - Spiritualized<br/>
-> ∙ **[Long-Forgotten Fairytale](https://www.last.fm/music/The+Magnetic+Fields/_/Long-Forgotten+Fairytale)** - The Magnetic Fields<br/>
+> ∙ **[The Place Where He Inserted The Blade](https://www.last.fm/music/Black+Country,+New+Road/_/The+Place+Where+He+Inserted+The+Blade)** - Black Country, New Road<br/>
+> ∙ **[And I Love Her](https://www.last.fm/music/Kurt+Cobain/_/And+I+Love+Her)** - Kurt Cobain<br/>
+> ∙ **[Drip Drop](https://www.last.fm/music/killkiyoshi/_/Drip+Drop)** - killkiyoshi<br/>
 <!--END_LASTFM_RECENT-->
 
 
