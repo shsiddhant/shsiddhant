@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Lightning](https://www.last.fm/music/Mitski/_/Lightning)** - Mitski<br/>
-> ∙ **[Charon's Obol](https://www.last.fm/music/Mitski/_/Charon%27s+Obol)** - Mitski<br/>
-> ∙ **[That White Cat](https://www.last.fm/music/Mitski/_/That+White+Cat)** - Mitski<br/>
+> ∙ **[Pitseleh](https://www.last.fm/music/Elliott+Smith/_/Pitseleh)** - Elliott Smith<br/>
+> ∙ **[Nausicaä (Love Will Be Revealed)](https://www.last.fm/music/Cameron+Winter/_/Nausica%C3%A4+(Love+Will+Be+Revealed))** - Cameron Winter<br/>
+> ∙ **[If You See Her, Say Hello](https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello)** - Bob Dylan<br/>
 <!--END_LASTFM_RECENT-->
 
 
