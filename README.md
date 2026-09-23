@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pitseleh](https://www.last.fm/music/Elliott+Smith/_/Pitseleh)** - Elliott Smith<br/>
-> ∙ **[Nausicaä (Love Will Be Revealed)](https://www.last.fm/music/Cameron+Winter/_/Nausica%C3%A4+(Love+Will+Be+Revealed))** - Cameron Winter<br/>
-> ∙ **[If You See Her, Say Hello](https://www.last.fm/music/Bob+Dylan/_/If+You+See+Her,+Say+Hello)** - Bob Dylan<br/>
+> ∙ **[The Moon](https://www.last.fm/music/The+Microphones/_/The+Moon)** - The Microphones<br/>
+> ∙ **[Shampoo Bottles](https://www.last.fm/music/Peach+Pit/_/Shampoo+Bottles)** - Peach Pit<br/>
+> ∙ **[The Modern Leper](https://www.last.fm/music/Frightened+Rabbit/_/The+Modern+Leper)** - Frightened Rabbit<br/>
 <!--END_LASTFM_RECENT-->
 
 
