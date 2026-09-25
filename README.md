@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Moon](https://www.last.fm/music/The+Microphones/_/The+Moon)** - The Microphones<br/>
-> ∙ **[Shampoo Bottles](https://www.last.fm/music/Peach+Pit/_/Shampoo+Bottles)** - Peach Pit<br/>
-> ∙ **[The Modern Leper](https://www.last.fm/music/Frightened+Rabbit/_/The+Modern+Leper)** - Frightened Rabbit<br/>
+> ∙ **[My Love Mine All Mine](https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine)** - Mitski<br/>
+> ∙ **[I Want You](https://www.last.fm/music/Bob+Dylan/_/I+Want+You)** - Bob Dylan<br/>
+> ∙ **[Everybody's Gotta Learn Sometime](https://www.last.fm/music/Beck/_/Everybody%27s+Gotta+Learn+Sometime)** - Beck<br/>
 <!--END_LASTFM_RECENT-->
 
 
