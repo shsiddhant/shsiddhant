@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[You're a Big Girl Now (Live at Hughes Stadium, Ft. Collins, CO - May 1976)](https://www.last.fm/music/Bob+Dylan/_/You%27re+a+Big+Girl+Now+(Live+at+Hughes+Stadium,+Ft.+Collins,+CO+-+May+1976))** - Bob Dylan<br/>
-> ∙ **[12,000 Lines](https://www.last.fm/music/Big+Thief/_/12,000+Lines)** - Big Thief<br/>
-> ∙ **[Aur Ho](https://www.last.fm/music/A.R.+Rahman/_/Aur+Ho)** - A.R. Rahman<br/>
+> ∙ **[Miss Misery (Early Version)](https://www.last.fm/music/Elliott+Smith/_/Miss+Misery+(Early+Version))** - Elliott Smith<br/>
+> ∙ **[I Will](https://www.last.fm/music/Mitski/_/I+Will)** - Mitski<br/>
+> ∙ **[Can't Keep Anything](https://www.last.fm/music/Cameron+Winter/_/Can%27t+Keep+Anything)** - Cameron Winter<br/>
 <!--END_LASTFM_RECENT-->
 
 
