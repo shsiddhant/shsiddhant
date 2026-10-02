@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Insight (2019 Digital Master)](https://www.last.fm/music/Joy+Division/_/Insight+(2019+Digital+Master))** - Joy Division<br/>
-> ∙ **[Bitter Tears](https://www.last.fm/music/The+Magnetic+Fields/_/Bitter+Tears)** - The Magnetic Fields<br/>
-> ∙ **[Everything Reminds Me of Her](https://www.last.fm/music/Elliott+Smith/_/Everything+Reminds+Me+of+Her)** - Elliott Smith<br/>
+> ∙ **[Hey, That's No Way to Say Goodbye](https://www.last.fm/music/Leonard+Cohen/_/Hey,+That%27s+No+Way+to+Say+Goodbye)** - Leonard Cohen<br/>
+> ∙ **[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)** - Geese<br/>
+> ∙ **[Gone](https://www.last.fm/music/Adrianne+Lenker/_/Gone)** - Adrianne Lenker<br/>
 <!--END_LASTFM_RECENT-->
 
 
