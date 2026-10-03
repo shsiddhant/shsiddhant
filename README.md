@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Superstar](https://www.last.fm/music/Beach+House/_/Superstar)** - Beach House<br/>
-> ∙ **[Superstar](https://www.last.fm/music/Beach+House/_/Superstar)** - Beach House<br/>
-> ∙ **[Superstar](https://www.last.fm/music/Beach+House/_/Superstar)** - Beach House<br/>
+> ∙ **[Two Slow Dancers](https://www.last.fm/music/Mitski/_/Two+Slow+Dancers)** - Mitski<br/>
+> ∙ **[Your Lips, My Mouth](https://www.last.fm/music/Airiel/_/Your+Lips,+My+Mouth)** - Airiel<br/>
+> ∙ **[Blurred View](https://www.last.fm/music/Big+Thief/_/Blurred+View)** - Big Thief<br/>
 <!--END_LASTFM_RECENT-->
 
 
