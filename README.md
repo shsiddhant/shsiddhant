@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Two Slow Dancers](https://www.last.fm/music/Mitski/_/Two+Slow+Dancers)** - Mitski<br/>
-> ∙ **[Your Lips, My Mouth](https://www.last.fm/music/Airiel/_/Your+Lips,+My+Mouth)** - Airiel<br/>
-> ∙ **[Blurred View](https://www.last.fm/music/Big+Thief/_/Blurred+View)** - Big Thief<br/>
+> ∙ **[Untitled Love Song](https://www.last.fm/music/The+Angels+of+Light/_/Untitled+Love+Song)** - The Angels of Light<br/>
+> ∙ **[I Don't Want to Get Over You](https://www.last.fm/music/The+Magnetic+Fields/_/I+Don%27t+Want+to+Get+Over+You)** - The Magnetic Fields<br/>
+> ∙ **[September Come Take This Heart Away](https://www.last.fm/music/Carissa%27s+Wierd/_/September+Come+Take+This+Heart+Away)** - Carissa's Wierd<br/>
 <!--END_LASTFM_RECENT-->
 
 
