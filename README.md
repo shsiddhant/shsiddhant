@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Over and Over](https://www.last.fm/music/Beach+House/_/Over+and+Over)** - Beach House<br/>
-> ∙ **[PPP](https://www.last.fm/music/Beach+House/_/PPP)** - Beach House<br/>
-> ∙ **[Wherever You Go](https://www.last.fm/music/Beach+House/_/Wherever+You+Go)** - Beach House<br/>
+> ∙ **[The Frost](https://www.last.fm/music/Mitski/_/The+Frost)** - Mitski<br/>
+> ∙ **[aubade (morning love song)](https://www.last.fm/music/Brave+Little+Abacus/_/aubade+(morning+love+song))** - Brave Little Abacus<br/>
+> ∙ **[To Be Alone With You](https://www.last.fm/music/Sufjan+Stevens/_/To+Be+Alone+With+You)** - Sufjan Stevens<br/>
 <!--END_LASTFM_RECENT-->
 
 
