@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Frost](https://www.last.fm/music/Mitski/_/The+Frost)** - Mitski<br/>
-> ∙ **[aubade (morning love song)](https://www.last.fm/music/Brave+Little+Abacus/_/aubade+(morning+love+song))** - Brave Little Abacus<br/>
-> ∙ **[To Be Alone With You](https://www.last.fm/music/Sufjan+Stevens/_/To+Be+Alone+With+You)** - Sufjan Stevens<br/>
+> ∙ **[A Running Start](https://www.last.fm/music/Sufjan+Stevens/_/A+Running+Start)** - Sufjan Stevens<br/>
+> ∙ **[Just Recently Lost Something of Importance](https://www.last.fm/music/of+Montreal/_/Just+Recently+Lost+Something+of+Importance)** - of Montreal<br/>
+> ∙ **[I Love You (Session Outtake)](https://www.last.fm/music/The+Velvet+Underground/_/I+Love+You+(Session+Outtake))** - The Velvet Underground<br/>
 <!--END_LASTFM_RECENT-->
 
 
