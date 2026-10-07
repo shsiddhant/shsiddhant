@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[A Running Start](https://www.last.fm/music/Sufjan+Stevens/_/A+Running+Start)** - Sufjan Stevens<br/>
-> ∙ **[Just Recently Lost Something of Importance](https://www.last.fm/music/of+Montreal/_/Just+Recently+Lost+Something+of+Importance)** - of Montreal<br/>
-> ∙ **[I Love You (Session Outtake)](https://www.last.fm/music/The+Velvet+Underground/_/I+Love+You+(Session+Outtake))** - The Velvet Underground<br/>
+> ∙ **[Katy Song](https://www.last.fm/music/Red+House+Painters/_/Katy+Song)** - Red House Painters<br/>
+> ∙ **[Embarrassing paintings (Agatha showed great initiative in art class this week)](https://www.last.fm/music/Weatherday/_/Embarrassing+paintings+(Agatha+showed+great+initiative+in+art+class+this+week))** - Weatherday<br/>
+> ∙ **[Flume](https://www.last.fm/music/Bon+Iver/_/Flume)** - Bon Iver<br/>
 <!--END_LASTFM_RECENT-->
 
 
