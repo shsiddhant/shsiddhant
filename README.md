@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Mellow](https://www.last.fm/music/Whirr/_/Mellow)** - Whirr<br/>
-> ∙ **[Letting Go](https://www.last.fm/music/Duster/_/Letting+Go)** - Duster<br/>
-> ∙ **[Only in Dreams](https://www.last.fm/music/Weezer/_/Only+in+Dreams)** - Weezer<br/>
+> ∙ **[I Want You](https://www.last.fm/music/Mitski/_/I+Want+You)** - Mitski<br/>
+> ∙ **[You Know I'm No Good (Live Jo Whiley, BBC Live Lounge Session / 2007)](https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good+(Live+Jo+Whiley,+BBC+Live+Lounge+Session+%2F+2007))** - Amy Winehouse<br/>
+> ∙ **[But You](https://www.last.fm/music/Alexandra+Savior/_/But+You)** - Alexandra Savior<br/>
 <!--END_LASTFM_RECENT-->
 
 
