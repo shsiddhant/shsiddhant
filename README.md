@@ -2,7 +2,7 @@
 
 I code to cope.
 
-I tend to tools around things I feel drawn to, viz. cricket, music, and memories,
+I tend to build tools around things I feel drawn to, viz. cricket, music, and memories,
 alongside taking occasional detours into programming languages, algorithms, and mathematics.
 
 ## Featured Projects
@@ -60,11 +60,13 @@ Projects built while learning and exploring ideas around data, memory, algorithm
 ## What I'm Listening To
 
 <!--START_LASTFM_RECENT:{"rows": 3}-->
+
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Unloveable (Single B-Side)](https://www.last.fm/music/The+Smiths/_/Unloveable+(Single+B-Side))** - The Smiths<br/>
+> ∙ **[Unloveable (Single B-Side)](<https://www.last.fm/music/The+Smiths/_/Unloveable+(Single+B-Side)>)** - The Smiths<br/>
 > ∙ **[Chances](https://www.last.fm/music/The+Strokes/_/Chances)** - The Strokes<br/>
 > ∙ **[Only You](https://www.last.fm/music/Portishead/_/Only+You)** - Portishead<br/>
+
 <!--END_LASTFM_RECENT-->
 
 ## Tools & Systems
