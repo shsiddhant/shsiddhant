@@ -60,13 +60,11 @@ Projects built while learning and exploring ideas around data, memory, algorithm
 ## What I'm Listening To
 
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[And I Love Her](https://www.last.fm/music/Kurt+Cobain/_/And+I+Love+Her)** - Kurt Cobain<br/>
-> ∙ **[Heart and Soul](https://www.last.fm/music/Joy+Division/_/Heart+and+Soul)** - Joy Division<br/>
-> ∙ **[Epitaph for My Heart](https://www.last.fm/music/The+Magnetic+Fields/_/Epitaph+for+My+Heart)** - The Magnetic Fields<br/>
-
+> ∙ **[Unloveable (Single B-Side)](https://www.last.fm/music/The+Smiths/_/Unloveable+(Single+B-Side))** - The Smiths<br/>
+> ∙ **[Chances](https://www.last.fm/music/The+Strokes/_/Chances)** - The Strokes<br/>
+> ∙ **[Only You](https://www.last.fm/music/Portishead/_/Only+You)** - Portishead<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Tools & Systems
