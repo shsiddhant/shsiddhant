@@ -31,9 +31,9 @@ Instead of focusing only on aggregate stats, it surfaces long-term and local pat
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I Want You](https://www.last.fm/music/Mitski/_/I+Want+You)** - Mitski<br/>
-> ∙ **[You Know I'm No Good (Live Jo Whiley, BBC Live Lounge Session / 2007)](https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good+(Live+Jo+Whiley,+BBC+Live+Lounge+Session+%2F+2007))** - Amy Winehouse<br/>
-> ∙ **[But You](https://www.last.fm/music/Alexandra+Savior/_/But+You)** - Alexandra Savior<br/>
+> ∙ **[And I Love Her](https://www.last.fm/music/Kurt+Cobain/_/And+I+Love+Her)** - Kurt Cobain<br/>
+> ∙ **[Heart and Soul](https://www.last.fm/music/Joy+Division/_/Heart+and+Soul)** - Joy Division<br/>
+> ∙ **[Epitaph for My Heart](https://www.last.fm/music/The+Magnetic+Fields/_/Epitaph+for+My+Heart)** - The Magnetic Fields<br/>
 <!--END_LASTFM_RECENT-->
 
 
