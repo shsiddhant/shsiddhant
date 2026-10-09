@@ -60,13 +60,11 @@ Projects built while learning and exploring ideas around data, memory, algorithm
 ## What I'm Listening To
 
 <!--START_LASTFM_RECENT:{"rows": 3}-->
-
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Unloveable (Single B-Side)](<https://www.last.fm/music/The+Smiths/_/Unloveable+(Single+B-Side)>)** - The Smiths<br/>
-> ∙ **[Chances](https://www.last.fm/music/The+Strokes/_/Chances)** - The Strokes<br/>
-> ∙ **[Only You](https://www.last.fm/music/Portishead/_/Only+You)** - Portishead<br/>
-
+> ∙ **[The Ghost of a Dead Hummingbird Flying Around the Room](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Ghost+of+a+Dead+Hummingbird+Flying+Around+the+Room)** - Carissa's Wierd<br/>
+> ∙ **[I Will (2018 Mix)](https://www.last.fm/music/The+Beatles/_/I+Will+(2018+Mix))** - The Beatles<br/>
+> ∙ **[Pink in the Night](https://www.last.fm/music/Mitski/_/Pink+in+the+Night)** - Mitski<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Tools & Systems
