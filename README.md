@@ -62,9 +62,9 @@ Projects built while learning and exploring ideas around data, memory, algorithm
 <!--START_LASTFM_RECENT:{"rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Ghost of a Dead Hummingbird Flying Around the Room](https://www.last.fm/music/Carissa%27s+Wierd/_/The+Ghost+of+a+Dead+Hummingbird+Flying+Around+the+Room)** - Carissa's Wierd<br/>
-> ∙ **[I Will (2018 Mix)](https://www.last.fm/music/The+Beatles/_/I+Will+(2018+Mix))** - The Beatles<br/>
-> ∙ **[Pink in the Night](https://www.last.fm/music/Mitski/_/Pink+in+the+Night)** - Mitski<br/>
+> ∙ **[Song Of You](https://www.last.fm/music/Airiel/_/Song+Of+You)** - Airiel<br/>
+> ∙ **[Love Takes Miles](https://www.last.fm/music/Cameron+Winter/_/Love+Takes+Miles)** - Cameron Winter<br/>
+> ∙ **[Waltz #1](https://www.last.fm/music/Elliott+Smith/_/Waltz+%231)** - Elliott Smith<br/>
 <!--END_LASTFM_RECENT-->
 
 ## Tools & Systems
