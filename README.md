@@ -7,18 +7,20 @@ alongside taking occasional detours into programming languages, algorithms, and 
 
 ## Featured Projects
 
-### memory.fm
+### [memory.fm](https://github.com/shsiddhant/memory.fm)
 
-A web application for exploring music listening history from Last.fm and Spotify.
+_Python, FastAPI, React_
+
+A web application for exploring music listening history from Last.fm.
 
 Instead of focusing only on aggregate stats, it surfaces long-term and local patterns such
 as attachment, repetition, and obsessive listening, to help you revisit periods of your life through music.
 
-- Tech: FastAPI • Python • React
-- Live: [memory-fm.vercel.app](https://memory-fm.vercel.app)
-- Repo: [github.com/shsiddhant/memory.fm](https://github.com/shsiddhant/memory.fm)
+**Live:** [memory-fm.vercel.app](https://memory-fm.vercel.app)
 
-### Cricket Warehouse
+### [Cricket Warehouse](https://github.com/shsiddhant/cricket-warehouse)
+
+_Python, Apache Airflow, dbt, PostgreSQL_
 
 An ELT pipeline to build data warehouse for ball-by-ball cricket match data from [Cricsheet](https://cricsheet.org/), designed for analytics and modeling.
 
@@ -26,9 +28,9 @@ An ELT pipeline to build data warehouse for ball-by-ball cricket match data from
 - Layered warehouse modeling
 - Fully orchestrated transformations via Airflow (Astronomer Cosmos)
 
-Repo: [https://github.com/shsiddhant/cricket-warehouse](https://github.com/shsiddhant/cricket-warehouse)
+### [Mone Pore - মনে পড়ে](https://github.com/shsiddhant/mone-pore)
 
-### Mone Pore - মনে পড়ে
+_Go, HTMX_
 
 > A personal memory journal
 
@@ -36,17 +38,14 @@ _**Mone Pore**_ lets you jot down moments from any point in your life, be it to
 
 It is a self-hosted Go web application designed to run on your own machine and be accessed through a web browser on your local network.
 
-- Tech: Go
-- Repo: [https://github.com/shsiddhant/mone-pore](https://github.com/shsiddhant/mone-pore)
+### [GoTiny](https://github.com/shsiddhant/gotiny)
 
-### GoTiny
+A tiny statically-typed programming language implemented in **Go**.
 
-A tiny statically-typed programming language implemented in Go.
 GoTiny programs can be written as scripts and executed directly, with an
 interactive REPL available for experimenting with expressions and statements.
 
-- Tech: Go
-- Repo: [github.com/shsiddhant/gotiny](https://github.com/shsiddhant/gotiny)
+Supports first-class functions, closures, lexical scoping, and recursion.
 
 ## Explorations
 
@@ -59,20 +58,14 @@ Projects built while learning and exploring ideas around data, memory, algorithm
 
 ## What I'm Listening To
 
-<!--START_LASTFM_RECENT:{"rows": 3}-->
-<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
-
-> ∙ **[Walk on Me](https://www.last.fm/music/Julia+Jacklin/_/Walk+on+Me)** - Julia Jacklin<br/>
-> ∙ **[The Hardest Thing](https://www.last.fm/music/Julia+Jacklin/_/The+Hardest+Thing)** - Julia Jacklin<br/>
-> ∙ **[Take It With You (Live at Carnegie Hall)](https://www.last.fm/music/Cameron+Winter/_/Take+It+With+You+(Live+at+Carnegie+Hall))** - Cameron Winter<br/>
-<!--END_LASTFM_RECENT-->
+[![Last.fm recently played](https://lastfm-recently-played.mccharmly-paul18.workers.dev/svg?user=lazulinoother&theme=transparent&count=3&radius=0&loved=off)](https://www.last.fm/user/lazulinoother)
 
 ## Tools & Systems
 
-- **Languages:** Python • Go • Dart • SQL (PostgreSQL, SQLite)
-- **App Architecture:** FastAPI • React • Flask • Flutter • REST APIs • CLI
-- **Data Science & ML:** ChromaDB • LiteLLM • Scikit-learn • Pandas • NumPy
+- **Languages:** Python • Go • Dart • SQL
+- **Backend & Frontend:** FastAPI • Flask • React • HTMX • CLI
 - **Data Engineering:** ELT Pipelines, Data Modeling, dbt, Apache Airflow
+- **Data Science & ML:** ChromaDB • LiteLLM • Scikit-learn • Pandas • NumPy
 - **Infrastructure & DevOps:** Docker, Git, CI/CD, Linux, Linux Server Administration
 
 ## Connect with me
